@@ -52,7 +52,7 @@ SET TESTCPUAFFINITY=40
 :: MODID look in meta.cpp. Use comma to add but no comma at the end
 SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988
 :: Add the Mod Name WITH the @ symbol close it with the ; as usual
-SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable Supressors;@VanillaPlusPlusMap
+SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable Supressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain
 :: Add the ModID in the [] and Mod Name WITHOUT the @ symbol
 SET MOD[1559212036]=CF
 SET MOD[1564026768]=Community-Online-Tools
@@ -62,7 +62,8 @@ SET MOD[1590841260]=Trader
 SET MOD[1710977250]=BaseBuildingPlus
 SET MOD[1724005476]=Durable Supressors
 SET MOD[1623711988]=VanillaPlusPlusMap
-
+SET MOD[1819514788]=Ear-Plugs
+SET MOD[1928939749]=Catch_Rain
 
 
 :: ********************************************************************************
