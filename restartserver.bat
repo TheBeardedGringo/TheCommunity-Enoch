@@ -50,9 +50,9 @@ SET TESTCPUAFFINITY=40
 
 :: ****************************** MODS ******************************
 :: MODID look in meta.cpp. Use comma to add but no comma at the end
-SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790
+SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790,1934466732
 :: Add the Mod Name WITH the @ symbol close it with the ; as usual
-SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable Supressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No Shoe Damage;@Airdrop-Upgraded;
+SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable Supressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No Shoe Damage;@Airdrop-Upgraded;@Ammo_Making
 :: Add the ModID in the [] and Mod Name WITHOUT the @ symbol
 SET MOD[1559212036]=CF
 SET MOD[1564026768]=Community-Online-Tools
@@ -68,6 +68,7 @@ SET MOD[1585487785]=DayZ-Expansion-Notifications
 SET MOD[1927567004]=DayZ-Expansion-Chat
 SET MOD[1782854982]=No_Shoe_Damage
 SET MOD[1870524790]=Airdrop-Upgraded
+SET MOD[1934466732]=Ammo_Making
 :: ********************************************************************************
 :: **Do not change anything below this comment unless you know what you are doing**
 :: ********************************************************************************
