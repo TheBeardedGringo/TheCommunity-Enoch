@@ -51,9 +51,9 @@ SET TESTCPUAFFINITY=40
 :: ****************************** MODS ******************************
 :: DO NOT USE SPACES IN ANY OF THE MOD SETTINGS
 :: MODID look in meta.cpp. Use comma to add but no comma at the end
-SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790,1934466732,1836257061,1560819773,1565871491,1677796889,1932611410,1813296260,1646187754,1791033033,1706505953,1605653648
+SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790,1934466732,1836257061,1560819773,1565871491,1677796889,1932611410,1813296260,1646187754,1791033033,1605653648
 :: Add the Mod Name WITH the @ symbol close it with the ; as usual
-SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FarmingPlus;@FIDOv_PACK_4;
+SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VanillaPlusPlusMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv_PACK_4;
 :: Add the ModID in the [] and Mod Name WITHOUT the @ symbol
 SET MOD[1559212036]=CF
 SET MOD[1564026768]=Community-Online-Tools
@@ -78,7 +78,6 @@ SET MOD[1932611410]=CannabisPlus
 SET MOD[1813296260]=CheckIdentity
 SET MOD[1646187754]=Code_Lock
 SET MOD[1791033033]=Dayz_Navigation
-SET MOD[1706505953]=FarmingPlus
 SET MOD[1605653648]=FIDOv_PACK_4
 :: ********************************************************************************
 :: **Do not change anything below this comment unless you know what you are doing**
