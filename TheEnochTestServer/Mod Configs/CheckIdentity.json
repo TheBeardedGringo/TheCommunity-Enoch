@@ -1,5 +1,5 @@
 {
-    "CanCheckAlive": 0,
+    "CanCheckAlive": 1,
     "CanCheckRestrained": 1,
     "CanCheckUnconscious": 1,
     "DemandIdentityText": "Demand Identity",

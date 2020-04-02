@@ -1,6 +1,6 @@
 {
-    "m_DefaultMaxCurrency": 10000,
-    "m_StartCurrency": 0,
+    "m_DefaultMaxCurrency": 1000000,
+    "m_StartCurrency": 5000,
     "m_PlaceExcessiveCurrencyOnGround": 1,
     "m_CreateLogs": 1,
     "m_MessageDisplayTime": 5,
