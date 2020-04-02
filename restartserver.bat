@@ -173,7 +173,9 @@ timeout %DEBUG%
 
 :: ************************** Workshop Update *************************
 FOR %%G IN (%MODIDS%) DO (
-	%STEAMCMD%\steamcmd.exe +login %USERNAME% %PASSWORD% +workshop_download_item 221100 %%G +quit
+	if "%MYPATH:~0,-1%" == "%DRIVE%:\%PARENTFOLDER%\%TESTSERVERFOLDER%" (
+		%STEAMCMD%\steamcmd.exe +login %USERNAME% %PASSWORD% +workshop_download_item 221100 %%G +quit
+	)
 	if exist %DAYZSA%\@!MOD[%%G]!\meta.cpp (
 		fc /b %WORKSHOP%\%%G\meta.cpp %DAYZSA%\@!MOD[%%G]!\meta.cpp > nul
 		if errorlevel == 1 (
