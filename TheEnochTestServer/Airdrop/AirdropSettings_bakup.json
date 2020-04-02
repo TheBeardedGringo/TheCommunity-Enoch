@@ -243,78 +243,78 @@
             "DropAccuracy": 100
         },
         {
-            "Title": "Balota",
-            "Location": "Military",
+            "Title": "Brena",
+            "Location": "City",
             "DropType": "RANDOM",
-            "X": 5043,
-            "Z": 2505,
+            "X": 6640,
+            "Z": 11405,
             "Zombies": 5,
             "Radius": 50,
             "DropAccuracy": 100
         },
         {
-            "Title": "Berezino",
-            "Location": "City",
-            "DropType": "RANDOM",
-            "X": 11464,
-            "Z": 8908,
-            "Zombies": 10,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Chernogorks",
-            "Location": "City",
-            "DropType": "RANDOM",
-            "X": 6128,
-            "Z": 2497,
-            "Zombies": 10,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Elektrozavodsk",
-            "Location": "City",
-            "DropType": "RANDOM",
-            "X": 9371,
-            "Z": 2229,
-            "Zombies": 10,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Krasnostav",
+            "Title": "Gliniska Airport",
             "Location": "Military",
             "DropType": "RANDOM",
-            "X": 12159,
-            "Z": 12583,
+            "X": 3874,
+            "Z": 10236,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Kolembrody",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 8415,
+            "Z": 12006,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Topolin",
+            "Location": "City",
+            "DropType": "RANDOM",
+            "X": 1572,
+            "Z": 7377,
+            "Zombies": 10,
+            "Radius": 50,
+            "DropAccuracy": 100
+        },
+        {
+            "Title": "Nadbor Military",
+            "Location": "Military",
+            "DropType": "RANDOM",
+            "X": 5587,
+            "Z": 3812,
             "Zombies": 5,
             "Radius": 50,
             "DropAccuracy": 100
         },
         {
-            "Title": "Myshkino",
+            "Title": "Olszanka",
             "Location": "Country",
             "DropType": "RANDOM",
-            "X": 2036,
-            "Z": 7491,
+            "X": 4662,
+            "Z": 7533,
             "Zombies": 5,
             "Radius": 50,
             "DropAccuracy": 100
         },
         {
-            "Title": "Northwest Airfield",
-            "Location": "Military",
+            "Title": "Lukow",
+            "Location": "Country",
             "DropType": "RANDOM",
-            "X": 4807,
-            "Z": 9812,
+            "X": 3923,
+            "Z": 11685,
             "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
         },
         {
-            "Title": "Novodmitrovsk",
-            "Location": "City",
+            "Title": "Branzow Castle",
+            "Location": "Military",
             "DropType": "RANDOM",
             "X": 11125,
             "Z": 14040,
@@ -323,52 +323,22 @@
             "DropAccuracy": 100
         },
         {
-            "Title": "Novy Sobor",
+            "Title": "Bielawa",
             "Location": "Country",
             "DropType": "RANDOM",
-            "X": 7436,
-            "Z": 7720,
+            "X": 1395,
+            "Z": 9670,
             "Zombies": 5,
             "Radius": 50,
             "DropAccuracy": 100
         },
         {
-            "Title": "Skalisty Island",
+            "Title": "Polana",
             "Location": "Country",
             "DropType": "RANDOM",
-            "X": 13452,
-            "Z": 3112,
+            "X": 3359,
+            "Z": 2052,
             "Zombies": 5,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Sosnovka",
-            "Location": "Military",
-            "DropType": "RANDOM",
-            "X": 2700,
-            "Z": 6193,
-            "Zombies": 5,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Stary Sobor",
-            "Location": "Country",
-            "DropType": "RANDOM",
-            "X": 5823,
-            "Z": 7764,
-            "Zombies": 5,
-            "Radius": 50,
-            "DropAccuracy": 100
-        },
-        {
-            "Title": "Zelenogorks",
-            "Location": "City",
-            "DropType": "RANDOM",
-            "X": 2351,
-            "Z": 5393,
-            "Zombies": 10,
             "Radius": 50,
             "DropAccuracy": 100
         }
