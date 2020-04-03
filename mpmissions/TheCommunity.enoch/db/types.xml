@@ -26488,5 +26488,330 @@
         <lifetime>5400</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     </type>
+	    <type name="SWP_ACR">
+	    <nominal>20</nominal>
+	    <lifetime>10800</lifetime>
+	    <restock>1800</restock>
+	    <min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_AWM">
+		<nominal>5</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_LVOA_C">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_M14_EBR">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_Glock18">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_M416">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_M417">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_M700">
+		<nominal>5</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_HK_MP7">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_MPX">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_Sig_P226">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_PP19">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_SASS">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_RO991">
+		<nominal>20</nominal>
+		<lifetime>10800</lifetime>
+		<restock>1800</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+		
+	<type name="SWP_762P_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_AWM_Mag">
+		<nominal>20</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_EBR_MAG">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_EBR_MAG">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_M700_Mag">
+		<nominal>20</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_EBR_MAG">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_MP7_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_MPX_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_P226_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_PP19_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_RO991Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_762P_Mag">
+		<nominal>40</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>20</min>
+		<quantmin>40</quantmin>
+		<quantmax>80</quantmax>
+		<cost>0</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="SWP_NT4_556">
+		<nominal>20</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+	    <usage name="Military"/>
+	</type>
 </types>
 

@@ -4324,6 +4324,97 @@
 			<item name="Mag_Saiga_Drum20Rnd" chance="0.20" />
 		</attachments>
 	</type>
+	<spawnabletypes>
+	<damage min="0.6" max="0.9" />
+	<type name="SWP_ACR">
+        <attachments chance="1.00">
+            <item name="SWP_MagpulBackup" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SWP_MagpulFS" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_LVOA">
+        <attachments chance="1.00">
+            <item name="SWP_MagpulBackup" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SWP_MagpulFS" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_M14_EBR">
+        <attachments chance="0.30">
+            <item name="SWP_EBR_MAG" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_Glock18">
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_M416">
+        <attachments chance="1.00">
+            <item name="SWP_MagpulBackup" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SWP_MagpulFS" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_STANAG_30Rnd" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_M417">
+        <attachments chance="0.30">
+            <item name="SWP_762P_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_M700">
+        <attachments chance="0.30">
+            <item name="SWP_M700_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_HK_MP7">
+        <attachments chance="0.30">
+            <item name="SWP_MP7_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_MPX">
+        <attachments chance="1.00">
+            <item name="SWP_MagpulBackup" chance="1.00" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SWP_MagpulFS" chance="1.00" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="SWP_MPX_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_Sig_P226">
+		<attachments chance="0.30">
+            <item name="SWP_P226_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_PP19">
+		<attachments chance="0.30">
+            <item name="SWP_PP19_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_SASS">
+		<attachments chance="0.30">
+            <item name="SWP_762P_Mag" chance="1.00" />
+        </attachments>
+	</type>
+    <type name="SWP_RO991">
+		<attachments chance="0.30">
+            <item name="SWP_RO991Mag" chance="1.00" />
+        </attachments>
+	</type>
 <!-- FUTURE
 	<type name="AugSteyr">
 		<attachments chance="0.10">
