@@ -2675,6 +2675,339 @@
             <item name="Mag_STANAG_30Rnd" chance="1.00" />
         </attachments>
 	</type>
+		<type name="Admin_Pouch_OD">
+		<cargo preset="foodArmy" />
+	</type>
+	<type name="Admin_Pouch_Tan">
+		<cargo preset="foodArmy" />
+	</type>
+	<type name="MVS_Admin_Pouch_Black">
+		<cargo preset="foodArmy" />
+	</type>
+	<type name="MVS_Admin_Pouch_Snow">
+		<cargo preset="foodArmy" />
+	</type>
+	<type name="MVS_Combat_Vest_OD">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Utility_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Medical_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="0.04">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="0.02">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="MVS_Combat_Vest_Tan">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Utility_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Medical_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.04">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="0.02">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="MVS_Combat_Vest_Black">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Utility_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Medical_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.04">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="0.02">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+	</type> 
+	<type name="MVS_Combat_Vest_Snow">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Utility_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Medical_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="0.04">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="0.02">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+	</type> 
+ 	<type name="MVS_Belt_OD">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Sheath_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Holster_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>	
+ 	<type name="MVS_Belt_Tan">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Sheath_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Holster_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>
+ 	<type name="MVS_Belt_Black">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Sheath_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Holster_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>
+ 	<type name="MVS_Belt_Snow">
+		<attachments chance="1.00">
+			<item name="MVS_Magazine_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Sheath_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="MVS_Holster_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>
+	<type name="MVS_Helmet_01_Tan">
+		<attachments chance="0.03">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="MVS_Helmet_01_Tan_Worn">
+		<attachments chance="0.03">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="MVS_Helmet_01_OD">
+		<attachments chance="0.03">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="MVS_Helmet_01_Black">
+		<attachments chance="0.03">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="MVS_Helmet_01_Snow">
+		<attachments chance="0.03">
+            <item name="NVGoggles" chance="1.00" />
+        </attachments>
+    </type>
+	<type name="MVS_Holster_Black">
+		<attachments chance="0.02">
+			<item name="CZ75" chance="0.30" />
+			<item name="FNX45" chance="0.20" />
+        </attachments>
+	</type>
+	<type name="MVS_Holster_OD">
+		<attachments chance="0.02">
+			<item name="CZ75" chance="0.30" />
+			<item name="FNX45" chance="0.20" />
+        </attachments>
+	</type>
+	<type name="MVS_Holster_Snow">
+		<attachments chance="0.02">
+			<item name="CZ75" chance="0.30" />
+			<item name="FNX45" chance="0.20" />
+        </attachments>
+	</type>
+	<type name="MVS_Holster_Tan">
+		<attachments chance="0.03">
+			<item name="CZ75" chance="0.30" />
+			<item name="FNX45" chance="0.20" />
+        </attachments>
+	</type>
+	<type name="MVS_Magazine_Pouch_OD">
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="MVS_Magazine_Pouch_Tan">
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="MVS_Magazine_Pouch_Black">
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="MVS_Magazine_Pouch_Snow">
+		<cargo preset="ammoArmy" />
+		<cargo preset="foodArmy" />
+		<cargo preset="mixArmy" />
+	</type>
+	<type name="MVS_Medical_Pouch_OD">
+		<cargo preset="toolsMedic" />
+		<attachments chance="0.10">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="0.07" />
+		</attachments>
+	</type>
+	<type name="MVS_Medical_Pouch_Tan">
+		<cargo preset="toolsMedic" />
+		<attachments chance="0.10">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="0.07" />
+		</attachments>
+	</type>
+	<type name="MVS_Medical_Pouch_Black">
+		<cargo preset="toolsMedic" />
+		<attachments chance="0.10">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="0.07" />
+		</attachments>
+	</type>
+	<type name="MVS_Medical_Pouch_Snow">
+		<cargo preset="toolsMedic" />
+		<attachments chance="0.10">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="0.07" />
+		</attachments>
+	</type>
+ 	<type name="MVS_Pack_OD">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_OD" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+		</attachments>
+	</type>	
+ 	<type name="MVS_Pack_Tan">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Tan" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+		</attachments>
+	</type>
+ 	<type name="MVS_Pack_Black">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>
+ 	<type name="MVS_Pack_Snow">
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<cargo preset="mixArmy" />
+		<attachments chance="1.00">
+			<item name="MVS_Admin_Pouch_Snow" chance="1.00" />
+		</attachments>
+		<attachments chance="0.09">
+            <item name="Chemlight_White" chance="1.0" />
+        </attachments>
+	</type>
+	<type name="MVS_Sheath_OD">
+		<attachments chance="0.10">
+			<item name="HuntingKnife" chance="0.30" />
+			<item name="CombatKnife" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="MVS_Sheath_Tan">
+		<attachments chance="0.10">
+			<item name="HuntingKnife" chance="0.30" />
+			<item name="CombatKnife" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="MVS_Sheath_Black">
+		<attachments chance="0.10">
+			<item name="HuntingKnife" chance="0.30" />
+			<item name="CombatKnife" chance="0.20" />
+		</attachments>
+	</type>
+	<type name="MVS_Sheath_Snow">
+		<attachments chance="0.10">
+			<item name="HuntingKnife" chance="0.30" />
+			<item name="CombatKnife" chance="0.20" />
+		</attachments>
+	</type>
 	<!--START OF ZOMBIES  -->
 	<!-- -----------------------------ARMY----------------------------- -->
 	<type name="ZmbM_PatrolNormal_Autumn">
@@ -5322,6 +5655,194 @@
 			<item name="Sedan_02_Trunk_Grey" chance="0.20" />
 		</attachments>
 	</type>
+	<type name="CrSk_Land_Rover_Defender_110">
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_1" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_1" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_2" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_2" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_kapot" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_bagazhnik" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="CrSk_Land_Rover_Defender_110_Green">
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_1_Green" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_1_Green" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_2_Green" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_2_Green" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_kapot_Green" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_bagazhnik_Green" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="CrSk_Land_Rover_Defender_110_Red">
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_1_Red" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_1_Red" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_2_Red" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_2_Red" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_kapot_Red" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_bagazhnik_Red" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.10" />
+        </attachments>
+    </type>
+    <type name="CrSk_Land_Rover_Defender_110_UN">
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_koleso" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_1_UN" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_1_UN" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_1_2_UN" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_dver_2_2_UN" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_kapot_UN" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="Defender110_bagazhnik_UN" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarRadiator" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="CarBattery" chance="0.30" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="SparkPlug" chance="0.10" />
+        </attachments>
+    </type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
