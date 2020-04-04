@@ -3436,7 +3436,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3449,7 +3449,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3462,7 +3462,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3475,7 +3475,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3488,7 +3488,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3501,7 +3501,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3514,7 +3514,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3527,7 +3527,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3540,7 +3540,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3553,7 +3553,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3566,7 +3566,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3579,7 +3579,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3592,7 +3592,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3605,7 +3605,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3618,7 +3618,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3631,7 +3631,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3644,7 +3644,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3657,7 +3657,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3670,7 +3670,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3683,7 +3683,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3696,7 +3696,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3709,7 +3709,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3722,7 +3722,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3735,7 +3735,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3748,7 +3748,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3761,7 +3761,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3774,7 +3774,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3787,7 +3787,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3800,7 +3800,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3813,7 +3813,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3826,7 +3826,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3839,7 +3839,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3852,7 +3852,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3865,7 +3865,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3878,7 +3878,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3891,7 +3891,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3904,7 +3904,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -3917,7 +3917,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5909,7 +5909,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5922,7 +5922,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5935,7 +5935,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5948,7 +5948,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5961,7 +5961,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5974,7 +5974,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -5987,7 +5987,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6000,7 +6000,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6013,7 +6013,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6026,7 +6026,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6039,7 +6039,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6052,7 +6052,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6065,7 +6065,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6078,7 +6078,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6091,7 +6091,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6104,7 +6104,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6117,7 +6117,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6130,7 +6130,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6143,7 +6143,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6156,7 +6156,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6169,7 +6169,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6182,7 +6182,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6195,7 +6195,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6208,7 +6208,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6221,7 +6221,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6234,7 +6234,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
     </type>
     <type name="Hatchback_02">
         <nominal>0</nominal>
@@ -6275,7 +6275,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6288,7 +6288,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6301,7 +6301,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6314,7 +6314,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6327,7 +6327,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6340,7 +6340,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6353,7 +6353,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6366,7 +6366,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6379,7 +6379,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6392,7 +6392,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6405,7 +6405,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6418,7 +6418,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6431,7 +6431,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6444,7 +6444,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6457,7 +6457,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6470,7 +6470,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6483,7 +6483,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6496,7 +6496,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6509,7 +6509,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6522,7 +6522,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6535,7 +6535,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6548,7 +6548,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6561,7 +6561,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6574,7 +6574,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6587,7 +6587,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6600,7 +6600,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6613,7 +6613,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6626,7 +6626,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6639,7 +6639,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6652,7 +6652,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6665,7 +6665,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6678,7 +6678,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6691,7 +6691,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6704,7 +6704,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6717,7 +6717,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6730,7 +6730,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6743,7 +6743,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -6756,7 +6756,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11601,7 +11601,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11614,7 +11614,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11627,7 +11627,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11640,7 +11640,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11653,7 +11653,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11666,7 +11666,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11679,7 +11679,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11692,7 +11692,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11705,7 +11705,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11718,7 +11718,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11731,7 +11731,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11744,7 +11744,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11757,7 +11757,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11770,7 +11770,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11783,7 +11783,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11796,7 +11796,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11809,7 +11809,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11822,7 +11822,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11835,7 +11835,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11848,7 +11848,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11861,7 +11861,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11874,7 +11874,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11887,7 +11887,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11900,7 +11900,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11923,7 +11923,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11936,7 +11936,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11949,7 +11949,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11962,7 +11962,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11975,7 +11975,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -11988,7 +11988,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12011,7 +12011,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12024,7 +12024,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12037,7 +12037,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12050,7 +12050,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12063,7 +12063,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12076,7 +12076,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12089,7 +12089,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -12102,7 +12102,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
     </type>
     <type name="SewingKit">
         <nominal>55</nominal>
@@ -24011,7 +24011,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24024,7 +24024,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24037,7 +24037,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24050,7 +24050,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24063,7 +24063,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24076,7 +24076,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24089,7 +24089,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24102,7 +24102,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24115,7 +24115,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24128,7 +24128,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24141,7 +24141,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24154,7 +24154,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24167,7 +24167,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
@@ -24180,7 +24180,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="tools"/>
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
