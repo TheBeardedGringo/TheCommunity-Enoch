@@ -25774,7 +25774,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Msp_Barrel_Donation_Ammo">
-        nominal>3</nominal>
+        <nominal>3</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>1</min>
