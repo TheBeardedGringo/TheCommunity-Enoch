@@ -1,5 +1,5 @@
 //Spawn helper function
-void SpawnObject( string type, vector position, vector orientation )
+Object SpawnObject( string type, vector position, vector orientation )
 {
     auto obj = GetGame().CreateObject( type, position );
     obj.SetPosition( position );
