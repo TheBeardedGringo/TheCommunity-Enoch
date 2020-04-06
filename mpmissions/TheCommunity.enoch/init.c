@@ -18,6 +18,7 @@ Object SpawnObject( string type, vector position, vector orientation )
 
 void main()
 {
+	BuildMyMapAdditions();
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
 
