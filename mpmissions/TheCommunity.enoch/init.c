@@ -3,9 +3,9 @@ Object SpawnObject( string type, vector position, vector orientation )
 {
     Object obj;
 	bool debugCreateLandObj = true;
-	if(debugCreateLandObj) PrintFormat("[DonkeyDebug]init.c CreateLandObject objectName:%1", objectName);
+	if(debugCreateLandObj) PrintFormat("[DonkeyDebug]init.c CreateLandObject type:%1", type);
 	//auto obj = GetGame().CreateObject( type, position );
-	obj = Object.Cast(GetGame().CreateObject(objectName, "0 0 0"));
+	obj = Object.Cast(GetGame().CreateObject(type, "0 0 0"));
     obj.SetPosition( position );
     obj.SetOrientation( orientation );
     obj.SetOrientation( obj.GetOrientation() ); //Collision fix
