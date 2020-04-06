@@ -14350,7 +14350,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban1_green" lootmax="2">
 				<container name="lootFloor" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14373,7 +14373,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban1_white" lootmax="2">
 				<container name="lootFloor" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14396,7 +14396,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban2_blue" lootmax="2">
 				<container name="lootFloor" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14415,7 +14415,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban2_green" lootmax="2">
 				<container name="lootFloor" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14434,7 +14434,7 @@
 		</group>
 		<group name="Land_Wreck_hb01_aban2_white" lootmax="2">
 				<container name="lootFloor" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14455,7 +14455,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14475,7 +14475,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14495,7 +14495,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14515,7 +14515,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14535,7 +14535,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14555,7 +14555,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14575,7 +14575,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14603,7 +14603,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14631,7 +14631,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-						<category name="vehicleparts" />
+
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -14659,7 +14659,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14685,7 +14685,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14711,7 +14711,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14737,7 +14737,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14763,7 +14763,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14789,7 +14789,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14815,7 +14815,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14842,7 +14842,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -14869,7 +14869,7 @@
 				<usage name="Village" />
 				<usage name="Industrial" />
 				<container name="loot" lootmax="2">
-					<category name="vehicleparts" />
+
 					<category name="tools" />
 					<category name="containers" />
 					<category name="clothes" />
@@ -15026,7 +15026,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15044,7 +15044,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15062,7 +15062,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15080,7 +15080,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15098,7 +15098,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15116,7 +15116,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15134,7 +15134,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15152,7 +15152,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15170,7 +15170,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15188,7 +15188,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15206,7 +15206,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15224,7 +15224,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15242,7 +15242,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
@@ -15260,7 +15260,7 @@
 						<usage name="Village" />		
 						<usage name="Industrial" />		
 						<container name="loot" lootmax="2">
-							<category name="vehicleparts" />
+
 							<category name="tools" />
 							<category name="containers" />
 							<category name="clothes" />
