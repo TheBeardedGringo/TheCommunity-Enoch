@@ -1,0 +1,33 @@
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-07_17-40-56.log started at 07.04. 17:41:13
+
+
+
+------------------------------------
+R16RK4U17-3, 07.04 2020 17:41:13
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c:9
+$CurrentDir://mpmissions//TheCommunity.enoch//custom//BuildMyMapAdditions.c:8
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c:21
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+---------------------------------------------
+Log D:\DayZServers\TheCommunity_enochTest\TheEnochTestServer\crash_2020-04-07_17-40-56.log started at 07.04. 17:41:13
+
+
+
+------------------------------------
+R16RK4U17-3, 07.04 2020 17:41:13
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c:9
+$CurrentDir://mpmissions//TheCommunity.enoch//custom//BuildMyMapAdditions.c:8
+$CurrentDir:mpmissions\TheCommunity.enoch\init.c:21
+
+Runtime mode
+CLI params: port 2442 mod @CF;@Community-Online-Tools; config D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg profiles TheEnochTestServer BEPath D:\DayZServers\TheCommunity_enochTest\battleye filePatching  adminlog  netlog  freezecheck  scrAllowFileWrite  
+
