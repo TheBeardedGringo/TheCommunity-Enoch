@@ -45,3 +45,5 @@ workshop.bat
 restartserver.bat
 TheTestServer
 TheServer
+ServerLogs*
+
