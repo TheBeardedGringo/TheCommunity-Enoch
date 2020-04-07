@@ -41,3 +41,5 @@ LoggingTest
 CFLogger.json
 CodeLockPerms.json
 TraderAdmins.txt
+workshop.bat
+restartserver.bat
