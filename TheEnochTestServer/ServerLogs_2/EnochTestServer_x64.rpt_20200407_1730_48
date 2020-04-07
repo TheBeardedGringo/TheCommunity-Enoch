@@ -1,0 +1,401 @@
+
+
+=====================================================================
+== D:\DayZServers\TheCommunity_enochTest\EnochTestServer_x64.exe
+== "D:\DayZServers\TheCommunity_enochTest\EnochTestServer_x64.exe"  -port=2442 "-mod=@CF;@Community-Online-Tools;" -config=D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg -profiles=TheEnochTestServer -BEPath=D:\DayZServers\TheCommunity_enochTest\battleye -filePatching -adminlog -netlog -freezecheck -scrAllowFileWrite
+=====================================================================
+Exe timestamp: 2020/03/14 00:03:02
+Current time:  2020/04/07 17:28:42
+
+Version 1.07.153006
+17:28:42.521 [Inputs] Loading inputs default "bin/constants.xml"
+17:28:42.521 [Inputs] Loading inputs default "bin/specific.xml"
+17:28:42.521 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+17:28:42.521 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+17:28:42.521 [Inputs] Loading inputs cfg "TheEnochTestServer\Users\Survivor\Server.core.xml"
+17:28:42.521 !!! [Inputs] Cannot Register "UAWorkbenchUI" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UABuildSnapUI" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UABBPInv" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAIncreaseMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UADecreaseMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAOpenVPPMap" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleVPPMap3DMarkers" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleKillFeedSettings" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleKillFeedNotifications" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "PMOpenPartyMenu" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "PMHideShowTrackers" non-existent input - Fix Preset!
+17:28:42.537 [Inputs] Exporting inputs cfg "TheEnochTestServer\Users\Survivor\Server.core.xml"
+=======================================================
+-------------------------------------------------------
+Time: 17:29:26
+Exception code: C0000005 ACCESS_VIOLATION at 7C620419
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_Server_Data in DZ\server\
+  DZ_Structures_Rail in DZ\structures\rail\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\, DZ_Rocks_Bliss in DZ\rocks_bliss\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, DZ_AI in DZ\AI\
+  DZ_Animals in DZ\animals\, DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Structures_Walls in DZ\structures\walls\, DZ_UI in DZ\ui\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Gear_Containers in DZ\gear\containers\, DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Characters_Zombies in DZ\characters\zombies\, DZ_Gear_Books in DZ\gear\books\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Structures_Military in DZ\structures\military\
+  DZ_Structures_Signs in DZ\structures\signs\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Vests in DZ\characters\vests\, DZ_Gear_Food in DZ\gear\food\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, DZ_Scripts in scripts\
+  JM_COT_Scripts in JM\COT\scripts\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\, DZ_Radio in DZ\gear\radio\
+  DZ_Gear_Traps in DZ\gear\traps\, DZ_Water in DZ\water\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\, DZ_Gear_Tools in DZ\gear\tools\
+  DZ_Structures in DZ\structures\data\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  JM_CF_Scripts in JM\CF\Scripts\, DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Characters_Tops in DZ\characters\tops\, DZ_Data in DZ\data\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Rocks in DZ\rocks\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Structures_Ruins in DZ\structures\ruins\, DZ_Surfaces in DZ\surfaces\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  RPC_Scripts in JM\CF\Legacy\, DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\, DZ_Sounds_Bliss in DZ\sounds_bliss\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Characters in DZ\characters\data\, DZ_Characters_Heads in DZ\characters\heads\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Gear_Consumables in DZ\gear\consumables\, DZ_Gear_Medical in DZ\gear\medical\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  JM_CF_GUI in JM\CF\GUI\, DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Anims_Cfg in DZ\anims\cfg\, DZ_Gear_Cooking in DZ\gear\cooking\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\, JM_COT_GUI in JM\COT\gui\
+  DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Gear_Navigation in DZ\gear\navigation\, DZ_Plants in DZ\plants\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+Mods: @Community-Online-Tools
+Version 1.07.153006
+Fault address:  7C620419 00:7C620419 Unknown module
+file:     TheCommunity
+world:    enoch
+Prev. code bytes: CC CC CC CC CC CC CC 40 53 48 83 EC 20 48 8B D9
+Fault code bytes: 48 8B 49 78 48 85 C9 74 09 48 8B 01 FF 90 18 02
+=======================================================
+note: Minidump has been generated into the file TheEnochTestServer\EnochTestServer_x64_2020-04-07_17-28-39_2020-04-07_17-29-26.mdmp
+
+
+=====================================================================
+== D:\DayZServers\TheCommunity_enochTest\EnochTestServer_x64.exe
+== "D:\DayZServers\TheCommunity_enochTest\EnochTestServer_x64.exe"  -port=2442 "-mod=@CF;@Community-Online-Tools;" -config=D:\DayZServers\TheCommunity_enochTest\TheCommunityDZTest.cfg -profiles=TheEnochTestServer -BEPath=D:\DayZServers\TheCommunity_enochTest\battleye -filePatching -adminlog -netlog -freezecheck -scrAllowFileWrite
+=====================================================================
+Exe timestamp: 2020/03/14 00:03:02
+Current time:  2020/04/07 17:28:42
+
+Version 1.07.153006
+17:28:42.521 [Inputs] Loading inputs default "bin/constants.xml"
+17:28:42.521 [Inputs] Loading inputs default "bin/specific.xml"
+17:28:42.521 !!! [Inputs] Invalid input name used "UAUIInspectItem" for context "ui" in "bin/specific.xml"
+17:28:42.521 [Inputs] Loading inputs default "JM/COT/scripts/Data/Inputs.xml"
+17:28:42.521 [Inputs] Loading inputs cfg "TheEnochTestServer\Users\Survivor\Server.core.xml"
+17:28:42.521 !!! [Inputs] Cannot Register "UAWorkbenchUI" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UABuildSnapUI" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UABBPInv" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAIncreaseMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UADecreaseMute" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAOpenVPPMap" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleVPPMap3DMarkers" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleKillFeedSettings" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "UAToggleKillFeedNotifications" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "PMOpenPartyMenu" non-existent input - Fix Preset!
+17:28:42.521 !!! [Inputs] Cannot Register "PMHideShowTrackers" non-existent input - Fix Preset!
+17:28:42.537 [Inputs] Exporting inputs cfg "TheEnochTestServer\Users\Survivor\Server.core.xml"
+=======================================================
+-------------------------------------------------------
+Time: 17:29:26
+Exception code: C0000005 ACCESS_VIOLATION at 7C620419
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  DZ_Water_Bliss in DZ\water_bliss\, DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  DZ_Spawn_Proxies in DZ\data\proxies\, DZ_Server_Data in DZ\server\
+  DZ_Structures_Rail in DZ\structures\rail\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\, DZ_Rocks_Bliss in DZ\rocks_bliss\
+  DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\, DZ_AI in DZ\AI\
+  DZ_Animals in DZ\animals\, DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Structures_Walls in DZ\structures\walls\, DZ_UI in DZ\ui\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Characters_Shoes in DZ\characters\shoes\
+  DZ_Gear_Containers in DZ\gear\containers\, DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  DZ_Characters_Zombies in DZ\characters\zombies\, DZ_Gear_Books in DZ\gear\books\
+  DZ_Gear_Crafting in DZ\gear\crafting\, DZ_ModuleZ in DZ\modulesDayz\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Gear_Camping in DZ\gear\camping\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Structures_Military in DZ\structures\military\
+  DZ_Structures_Signs in DZ\structures\signs\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  DZ_Characters_Vests in DZ\characters\vests\, DZ_Gear_Food in DZ\gear\food\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, DZ_Scripts in scripts\
+  JM_COT_Scripts in JM\COT\scripts\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  DZ_Characters_Glasses in DZ\characters\glasses\, DZ_Radio in DZ\gear\radio\
+  DZ_Gear_Traps in DZ\gear\traps\, DZ_Water in DZ\water\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Animations in DZ\weapons\animations\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZ_Surfaces_Bliss in DZ\surfaces_bliss\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\, DZ_Gear_Tools in DZ\gear\tools\
+  DZ_Structures in DZ\structures\data\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\
+  JM_CF_Scripts in JM\CF\Scripts\, DZ_AI_Bliss in DZ\AI_bliss\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  DZ_Characters_Tops in DZ\characters\tops\, DZ_Data in DZ\data\
+  DZ_Gear_Optics in DZ\gear\optics\, DZ_Rocks in DZ\rocks\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Structures_Ruins in DZ\structures\ruins\, DZ_Surfaces in DZ\surfaces\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  RPC_Scripts in JM\CF\Legacy\, DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\, DZ_Sounds_Bliss in DZ\sounds_bliss\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Characters in DZ\characters\data\, DZ_Characters_Heads in DZ\characters\heads\
+  DZ_Characters_Masks in DZ\characters\masks\
+  DZ_Characters_Pants in DZ\characters\pants\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  DZ_Gear_Consumables in DZ\gear\consumables\, DZ_Gear_Medical in DZ\gear\medical\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  JM_CF_GUI in JM\CF\GUI\, DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Anims_Cfg in DZ\anims\cfg\, DZ_Gear_Cooking in DZ\gear\cooking\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Nonlethal in DZ\weapons\nonlethal\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Pistols in DZ\weapons\pistols\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\, JM_COT_GUI in JM\COT\gui\
+  DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Gear_Navigation in DZ\gear\navigation\, DZ_Plants in DZ\plants\
+  DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+Mods: @Community-Online-Tools
+Version 1.07.153006
+Fault address:  7C620419 00:7C620419 Unknown module
+file:     TheCommunity
+world:    enoch
+Prev. code bytes: CC CC CC CC CC CC CC 40 53 48 83 EC 20 48 8B D9
+Fault code bytes: 48 8B 49 78 48 85 C9 74 09 48 8B 01 FF 90 18 02
+=======================================================
+note: Minidump has been generated into the file TheEnochTestServer\EnochTestServer_x64_2020-04-07_17-28-39_2020-04-07_17-29-26.mdmp
+
