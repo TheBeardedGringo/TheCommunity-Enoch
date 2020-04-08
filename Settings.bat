@@ -104,5 +104,6 @@ SET LIVELOGSREPONAME=TheCommunity-EnochLiveLogs
 
 :: *************************** STEAMCMD ******************************
 :: STEAMCMD - keep as anonymous all testing downloaded server and mods as it is setup
+SET STEAMCMDFOLDER=steamcmd
 SET USERNAME=anonymous
 SET PASSWORD=
