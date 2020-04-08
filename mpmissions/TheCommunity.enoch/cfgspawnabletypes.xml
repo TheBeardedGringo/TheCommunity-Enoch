@@ -1276,9 +1276,9 @@
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
-		<type name="M4A1_RussianVsr">
+	<type name="M4A1_RussianVsr">
         <attachments chance="1.00">
-            <item name="M4_OEBttstck" chance="1.00" />
+        <item name="M4_OEBttstck" chance="1.00" />
         </attachments>
         <attachments chance="1.00">
             <item name="M4_PlasticHndgrd" chance="1.00" />
@@ -1290,7 +1290,7 @@
             <item name="Mag_STANAG_30Rnd" chance="1.00" />
         </attachments>
 	</type>
-<type name="MountainBagRussianFlora
+	<type name="MountainBagRussianFlora">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
@@ -1346,7 +1346,7 @@
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
-		<type name="M4A1_RussianFlora">
+	<type name="M4A1_RussianFlora">
         <attachments chance="1.00">
             <item name="M4_OEBttstck" chance="1.00" />
         </attachments>
@@ -1469,7 +1469,7 @@
 	 <type name="AthleticShoes_Anime">
         <cargo preset="foodVillage" />
     </type>
-	 <type name="WorkingGloves_Anime
+	 <type name="WorkingGloves_Anime">
         <cargo preset="foodVillage" />
     </type>
 	 <type name="BalaclavaMaskAnime">
@@ -1500,7 +1500,7 @@
 	 <type name="AthleticShoes_yellow">
         <cargo preset="foodVillage" />
     </type>
-	 <type name="WorkingGloves_yellow
+	 <type name="WorkingGloves_yellow">
         <cargo preset="foodVillage" />
     </type>
 	 <type name="BalaclavaMaskyellow">
@@ -1650,7 +1650,7 @@
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
-	<type name="MountainBagRussianSurpat
+	<type name="MountainBagRussianSurpat">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
@@ -2315,7 +2315,7 @@
             <item name="Mag_STANAG_30Rnd" chance="1.00" />
         </attachments>
 	</type>
-	<type name="MountainBagRussianVsr2
+	<type name="MountainBagRussianVsr2">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
@@ -2424,7 +2424,7 @@
 	 <type name="AthleticShoes_Anime">
         <cargo preset="foodVillage" />
     </type>
-	 <type name="WorkingGloves_Anime
+	 <type name="WorkingGloves_Anime">
         <cargo preset="foodVillage" />
     </type>
 	 <type name="BalaclavaMaskAnime">
@@ -2455,7 +2455,7 @@
 	 <type name="AthleticShoes_yellow">
         <cargo preset="foodVillage" />
     </type>
-	 <type name="WorkingGloves_yellow
+	 <type name="WorkingGloves_yellow">
         <cargo preset="foodVillage" />
     </type>
 	 <type name="BalaclavaMaskyellow">
@@ -2605,7 +2605,7 @@
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
-	<type name="MountainBagRussianSurpat
+	<type name="MountainBagRussianSurpat">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
