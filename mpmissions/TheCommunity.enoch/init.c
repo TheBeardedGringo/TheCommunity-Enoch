@@ -1,18 +1,24 @@
 //Spawn helper function
-void SpawnObject( string type, vector position, vector orientation )
+Object SpawnObject( string type, vector position, vector orientation )
 {
-    auto obj = GetGame().CreateObject( type, position );
+    Object obj;
+	bool debugCreateLandObj = true;
+	if(debugCreateLandObj) PrintFormat("[DonkeyDebug]init.c CreateLandObject type:%1", type);
+	//auto obj = GetGame().CreateObject( type, position );
+	obj = Object.Cast(GetGame().CreateObject(type, "0 0 0"));
     obj.SetPosition( position );
     obj.SetOrientation( orientation );
     obj.SetOrientation( obj.GetOrientation() ); //Collision fix
     obj.Update();
     obj.SetAffectPathgraph( true, false );
     if( obj.CanAffectPathgraph() ) GetGame().GetCallQueue( CALL_CATEGORY_SYSTEM ).CallLater( GetGame().UpdatePathgraphRegionByObject, 100, false, obj );
+	return obj;
 }
 #include "$CurrentDir:\\mpmissions\\TheCommunity.enoch\\custom\\BuildMyMapAdditions.c"
 
 void main()
 {
+	BuildMyMapAdditions();
 	//INIT WEATHER BEFORE ECONOMY INIT------------------------
 	Weather weather = g_Game.GetWeather();
 

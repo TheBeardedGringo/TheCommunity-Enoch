@@ -181,25 +181,25 @@ timeout %DEBUG%
 
 
 :: ************************** Workshop Update *************************
-FOR %%G IN (%MODIDS%) DO (
-	if "%MYPATH:~0,-1%" == "%DRIVE%:\%PARENTFOLDER%\%TESTSERVERFOLDER%" (
-		%STEAMCMD%\steamcmd.exe +login %USERNAME% %PASSWORD% +workshop_download_item 221100 %%G +quit
-	)
-	if exist %DAYZSA%\@!MOD[%%G]!\meta.cpp (
-		fc /b %WORKSHOP%\%%G\meta.cpp %DAYZSA%\@!MOD[%%G]!\meta.cpp > nul
-		if errorlevel == 1 (
-			robocopy %WORKSHOP%\%%G\key %KEYSDIR% /COPYALL /E
-			robocopy %WORKSHOP%\%%G\keys %KEYSDIR% /COPYALL /E
-			robocopy %WORKSHOP%\%%G %DAYZSA%\@!MOD[%%G]!\ /COPYALL /E
-		)
-	) else (
-		robocopy %WORKSHOP%\%%G\key %KEYSDIR% /COPYALL /E
-		robocopy %WORKSHOP%\%%G\keys %KEYSDIR% /COPYALL /E
-		robocopy %WORKSHOP%\%%G\ServerProfileFolder %PROFILEDIR% /COPYALL /E
-		robocopy %WORKSHOP%\%%G\!MOD[%%G]! %PROFILEDIR% /COPYALL /E
-		robocopy %WORKSHOP%\%%G %DAYZSA%\@!MOD[%%G]!\ /COPYALL /E
-	)
-)
+:: FOR %%G IN (%MODIDS%) DO (
+:: 	if "%MYPATH:~0,-1%" == "%DRIVE%:\%PARENTFOLDER%\%TESTSERVERFOLDER%" (
+:: 		%STEAMCMD%\steamcmd.exe +login %USERNAME% %PASSWORD% +workshop_download_item 221100 %%G +quit
+:: 	)
+:: 	if exist %DAYZSA%\@!MOD[%%G]!\meta.cpp (
+:: 		fc /b %WORKSHOP%\%%G\meta.cpp %DAYZSA%\@!MOD[%%G]!\meta.cpp > nul
+:: 		if errorlevel == 1 (
+:: 			robocopy %WORKSHOP%\%%G\key %KEYSDIR% /COPYALL /E
+:: 			robocopy %WORKSHOP%\%%G\keys %KEYSDIR% /COPYALL /E
+:: 			robocopy %WORKSHOP%\%%G %DAYZSA%\@!MOD[%%G]!\ /COPYALL /E
+:: 		)
+:: 	) else (
+:: 		robocopy %WORKSHOP%\%%G\key %KEYSDIR% /COPYALL /E
+:: 		robocopy %WORKSHOP%\%%G\keys %KEYSDIR% /COPYALL /E
+:: 		robocopy %WORKSHOP%\%%G\ServerProfileFolder %PROFILEDIR% /COPYALL /E
+:: 		robocopy %WORKSHOP%\%%G\!MOD[%%G]! %PROFILEDIR% /COPYALL /E
+:: 		robocopy %WORKSHOP%\%%G %DAYZSA%\@!MOD[%%G]!\ /COPYALL /E
+:: 	)
+:: )
 echo All mods have been checked on steamcmd
 timeout %DEBUG%
 
