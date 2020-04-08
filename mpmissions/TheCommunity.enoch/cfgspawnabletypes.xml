@@ -1360,7 +1360,7 @@
             <item name="Mag_STANAG_30Rnd" chance="1.00" />
         </attachments>
 	</type>
-	<type name="MountainBagRussianVsr2
+	<type name="MountainBagRussianVsr2">
         <cargo preset="foodArmy" />
         <cargo preset="ammoArmy" />
     </type>
