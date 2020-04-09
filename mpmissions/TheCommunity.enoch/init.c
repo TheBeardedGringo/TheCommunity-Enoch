@@ -15,6 +15,7 @@ Object SpawnObject( string type, vector position, vector orientation )
 	return obj;
 }
 #include "$CurrentDir:\\mpmissions\\TheCommunity.enoch\\custom\\BuildMyMapAdditions.c"
+#include "$CurrentDir:\\mpmissions\\TheCommunity.enoch\\custom\\BBPCementMixers.c"
 
 void main()
 {
