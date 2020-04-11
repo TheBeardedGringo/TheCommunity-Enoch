@@ -46,4 +46,5 @@ restartserver.bat
 TheTestServer
 TheServer
 ServerLogs*
+tmp_RegisteredObjects.json
 
