@@ -1,0 +1,146 @@
+{
+    "Version": 1.02,
+    "RadiationResistanceInBuilding": 6,
+    "ClanMemberIconColor": [
+        255,
+        255,
+        255,
+        255
+    ],
+    "ShowIconDistance": 150,
+    "ShowIconDistanceInOptics": 650,
+    "EnableDegradeReputation": 1,
+    "MinimalReputationLevel": 9,
+    "ReputationDegredeBy": 1,
+    "PlotPoleTaxes": [
+        {
+            "Radius": 25,
+            "LevelRequirements": 0,
+            "Tax": 62500,
+            "Validity": 10
+        },
+        {
+            "Radius": 30,
+            "LevelRequirements": 1,
+            "Tax": 90000,
+            "Validity": 10
+        },
+        {
+            "Radius": 35,
+            "LevelRequirements": 2,
+            "Tax": 122500,
+            "Validity": 10
+        },
+        {
+            "Radius": 40,
+            "LevelRequirements": 3,
+            "Tax": 160000,
+            "Validity": 10
+        },
+        {
+            "Radius": 45,
+            "LevelRequirements": 4,
+            "Tax": 202500,
+            "Validity": 10
+        },
+        {
+            "Radius": 50,
+            "LevelRequirements": 5,
+            "Tax": 250000,
+            "Validity": 10
+        },
+        {
+            "Radius": 55,
+            "LevelRequirements": 6,
+            "Tax": 302500,
+            "Validity": 10
+        },
+        {
+            "Radius": 60,
+            "LevelRequirements": 7,
+            "Tax": 360000,
+            "Validity": 10
+        },
+        {
+            "Radius": 65,
+            "LevelRequirements": 8,
+            "Tax": 422500,
+            "Validity": 10
+        },
+        {
+            "Radius": 70,
+            "LevelRequirements": 9,
+            "Tax": 490000,
+            "Validity": 10
+        },
+        {
+            "Radius": 75,
+            "LevelRequirements": 10,
+            "Tax": 562500,
+            "Validity": 10
+        },
+        {
+            "Radius": 80,
+            "LevelRequirements": 11,
+            "Tax": 640000,
+            "Validity": 10
+        },
+        {
+            "Radius": 85,
+            "LevelRequirements": 12,
+            "Tax": 722500,
+            "Validity": 10
+        },
+        {
+            "Radius": 90,
+            "LevelRequirements": 13,
+            "Tax": 810000,
+            "Validity": 10
+        },
+        {
+            "Radius": 95,
+            "LevelRequirements": 14,
+            "Tax": 902500,
+            "Validity": 10
+        },
+        {
+            "Radius": 100,
+            "LevelRequirements": 15,
+            "Tax": 1e+06,
+            "Validity": 10
+        },
+        {
+            "Radius": 105,
+            "LevelRequirements": 16,
+            "Tax": 1.1025e+06,
+            "Validity": 10
+        },
+        {
+            "Radius": 110,
+            "LevelRequirements": 17,
+            "Tax": 1.21e+06,
+            "Validity": 10
+        },
+        {
+            "Radius": 115,
+            "LevelRequirements": 18,
+            "Tax": 1.3225e+06,
+            "Validity": 10
+        },
+        {
+            "Radius": 120,
+            "LevelRequirements": 19,
+            "Tax": 1.44e+06,
+            "Validity": 10
+        }
+    ],
+    "DestructionTimeInPlotPole": [
+        {
+            "Items": [
+                "default"
+            ],
+            "TimeOwnersON": 3600,
+            "TimeOwnersOFF": 86400
+        }
+    ]
+}

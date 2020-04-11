@@ -1,0 +1,35 @@
+{
+	"Language":["English","Česky"],
+	"Discord":"https://discord.gg/6dMThNM",
+	"Donate":"https://paypal.me/AlPepino?locale.x=cs_CZ",
+	"Items":[
+		{
+		"Menu":["How to survive","Jak přežít"],
+		"Text":[
+			"<br/><b>Attention: Radiation are spread all over the map. Southeast of the world is hit by smaller radiation doses then Northwest. You can hide against smaller radiation doses in buildings.</b><br/> <h2>Tips</h2><br/> 1) Avoid long stays outdoors without NBC suit. Otherwise you can get radiation disease.<br/><br/> 2) Keep your body warm.<br/><br/> 3) Get some food. Try to  hunt some animal. Food and ammo are very rare in this world.<br/><br/> 4) When you are ready you can try to get better stuff from missions like Crashed Helicopters etc.<br/><br/> 5) You can even buy some basic stuff at traders. To unlocking better trader categories you have to get better world reputation first.<br/><br/> 6) Best tradable stuff are food, ammo, magazines, weapons and vehicles.<br/><br/>",
+			"<br/><b>Upozornění: Celá mapa je zamořena radiací. Jihovýchod mapy je zasažen méně než severozápad. Nicméně se můžeš před slabší radiční dávkou schovat v budovách.</b><br/> <h2>Tipy</h2><br/> 1) Vyhni se delšímu pobytu venku bez NBC obleku. Jinak ti hrozí onemocnění. Pokud přežiješ dostatečně dlouho můžeš dokonce získat i přirozenou odolnost proti radiaci.<br/><br/> 2) Udržuj své tělo v teple.<br/><br/> 3) Obstarej si jídlo a pití. Zkus něco ulovit. Jídlo a munice jsou zde vzácné komodity.<br/><br/> 4) Až budeš připraven, můžeš se vydat na výpravu na severozápad či zkus štěstí na některé z misích.<br/><br/> 5) Některé základní zboží můžeš koupit u obchodníka. Pro odemčení širší nabídky však musíš nejprve získat lepší reputaci.<br/><br/> 6) Nejlépe obchodovatelné zboží je jídlo, munice, zásobníky, optiky, zbraně a auta.<br/><br/>"           
+			]
+		},
+		{
+		"Menu":["Missions","Mise"],
+		"Text":[
+			"<h2>Missions on Server</h2><br/> 1) Traders - they are spawned random at 2 places<br/><br/> 2) Crashed Helicopters - there are random spawned HeliCrash with rare loot. You can get echo about that event if you have working walkie-talkie<br/><br/> 3) Derailed army train - try to rescue cargo from this accident<br/><br/> 4) Car accident - try to get your own new car from this mission:)<br/><br/> <br/><i>* Use Chernarus map + walkie-talkie for finding exact location of that missions (except of Crashed Helicopters)</i>",
+			"<h2>Mise na serveru</h2><br/> 1) Traders - jsou spawnuty na 2 různých místech<br/><br/> 2) Crashed Helicopters - ve hře jsou náhodně spawnovány HeliCrashe se zajímavým lootem. Pokud budeš mít v momentě této události zapnoutou vysílačku, dozvíš se přibližnou lokaci<br/><br/> 3) Derailed army train - zkus zachránit cenný náklad z této havárie<br/><br/> 4) Car accident - jeden z mála způsobů jak si ve hře opatřit káru:)<br/><br/> <br/><i>* Použij mapu + vysílačku pro zjištění pozic misí (kromě Crashed Helicopters)</i>"
+			]
+		},		
+		{
+		"Menu":["How to cure RD","Jak vyléčit RD"],
+		"Text":[
+			"<h2>How to cure radiation disease?</h2><br/> 1) You have to get rid of radiation dose from your body first. Use the radiation block tablets to accelerate this process.<br/> 2) Use the tetracycline tablets or blood transfusion (it is required when the icon of radiation disease is red).<br/>",
+			"<h2>Jak vyléčit nemoc z ozáření?</h2><br/> 1) Musíš snížit úroveň ozáření svého těla na minimum. Použij protiradiační pilulky k urychlení procesu.<br/> 2) Vem si antibiotika nebo si aplikuj krevní transfůzi (ta je vyžadována pokud je ikona radiační nemoci již červená).<br/>                                   "
+			]
+		},	
+		{
+		"Menu":["NextDays server","NextDays server"],
+		"Text":[
+			"<h2>Rules</h2><br/> 1) Admin is always right.<br/> 2) No admin refund.<br/> 3) Building in military and high spawn building is not allowed.<br/><br/>Server restarts are in 12:00 and 00:00.<br/><br/>If you have some troubles with our server you can contact us on discord (click on button below).<br/><br/>Admins: AlPepino                                                                                                                                 ",
+			"<h2>Pravidla</h2><br/> 1) Admin má vždycky pravdu.<br/> 2) Admin neposkytuje žádnou herní kompenzaci.<br/> 3) Je zakázané stavět základny ve vojenských prostorech, pilách a objektech s cenným lootem.<br/><br/>Restarty serveru jsou v poledne a o půlnoci.<br/><br/>V případě problémů nás můžete kontaktovat na discordu (odkaz na discord je dole).<br/><br/>Admini: AlPepino"
+			]
+		}		
+	]
+}

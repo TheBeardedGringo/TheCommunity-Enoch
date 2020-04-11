@@ -1,0 +1,106 @@
+{
+    "Stamina": {			
+        "LevelCup": 10,   //you can increase or decrease max level, but when you do it, you have to adjust "LevelMdf" and "RequiredEXP" too
+        "LevelMdf": [
+            1,			//Level 0, 0% bonus to stamina. Do not change it due to server/client synch.
+            0.95,		//Level 1, 5% bonus - you can change these values bellow 
+            0.9,		//L2, 10% bonus to stamina
+            0.85,		//L3, 15% bonus to stamina
+            0.8,		//L4, 20% bonus to stamina
+            0.75,		//L5, 25% bonus to stamina
+            0.7,		//L6, 30% bonus to stamina
+            0.65,		//L7, 35% bonus to stamina
+            0.6,		//L8, 40% bonus to stamina
+            0.55,		//L9, 45% bonus to stamina
+            0.4			//L10,60% bonus to stamina
+        ],
+        "ReuiredExp": [
+            0,			//do not change this
+            2400,		//L1 - required EXP to level 1. You can adjust it. 
+            2500,		//L2 - required EXP to level 2. You can adjust it. 
+            2600,		//..
+            2700,		//..
+            2800,		//..
+            2900,		//..
+            3000,		//..
+            3100,		//..
+            3200,		//..
+            3500		//L10 - required EXP to level 10. You can adjust it. 
+        ],
+		"AnabolicMdf": 3,			
+        "MoveRun": 1,				//when you run then you get 1 exp per second - can be change of course
+        "MoveSprint": 1.5,			//when you sprint then you get 1.5 exp per second - can be change of course
+        "ClimbFast": 1.7,			//when you climb fast then you get 1.7 exp per second - can be change of course
+        "ClimbSlow": 1.2,			//when you climb slowly then you get 1.2 exp per second - can be change of course
+        "SwimFast": 2,				//when you swim fast then you get 2 exp per second - can be change of course
+        "SwimSlow": 1.5				//when you swim slowly then you get 1.5 exp per second - can be change of course
+    },
+    "Resistance": {				//natural radiation resistance. Shield from radiation suit + natural radition resistance can make you immune to radiation (gold icon ingame)
+        "LevelCup": 10,			//same like at Stamina
+        "LevelMdf": [
+            0,					//Level 0, 0% bonus to natural radiation resistance. Do not change it due to server/client synch.
+            10,					//Level 1, 10% bonus to natural radiation resistance - you can change these values bellow 
+            20,					
+            30,
+            40,
+            50,
+            60,
+            70,
+            80,
+            90,
+            100					//Level 10, 100% bonus to natural radiation resistance
+        ],
+        "ReuiredExp": [
+            0,
+            300,				//L1 - when you stay in radiation you get exp. Stronger radiation = more exp you gain
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750					//L10
+        ]
+    },
+    "Reputation": {				//I use reputation to unlock some trader categories
+        "LevelCup": 3,			// same like at stamina
+        "LevelMdf": [			
+            0,
+            0.015,				// lower prices at trades by 1,5% - not available yet if I remember well
+            0.25,				// lower prices at trades by 2,5% - not available yet if I remember well
+            0.05				// lower prices at trades by 5% - not available yet if I remember well
+        ],
+        "ReuiredExp": [
+            0,
+            50000,				//L1 - required EXP to level 1. You can adjust it. 
+            150000,				//..
+            200000				//..
+        ],
+        "Sell": [
+            0.05,				// if you are hero then selling improve your reputation by 0,05 * total ammount
+            -0.05				// if you are bandit then selling improve your reputation by -0,05 * total ammount
+        ],
+        "KillHero": [
+            -25000,				//if you are hero then killing hero decrease your reputation by -25000
+            -50000				//if you are bandit then killing hero improve your reputation by -25000
+        ],
+        "KillBandit": [
+            50000,				//if you are hero then killing bandit improve your reputation by 50000
+            -25000				//if you are bandit then killing bandit improve your reputation by -25000
+        ],
+        "SkinPlayer": [
+            -25000,				//if you are hero then skinning player decrease your reputation by -25000
+            -25000				//if you are bandit then skinning player improve your reputation by -25000
+        ],
+        "KillZombie": [
+            500,				//if you are hero then killing zombie improve your reputation by 500
+            -200				//if you are bandit then killing zombie improve your reputation by -200
+        ],
+        "KillAnimmal": [
+            200,				//if you are hero then killing animal improve your reputation by 200
+            -1000				//if you are bandit then killing animal improve your reputation by -1000
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+{
+	"Language":["English","Česky"],										//count of language version. You can of course add others 
+	"Discord":"https://discord.gg/6dMThNM",								//url of your discord
+	"Donate":"https://paypal.me/AlPepino?locale.x=cs_CZ",				//donate url
+	"Items":[
+		{
+		"Menu":["NextDays server","NextDays server"],					//name of your first menu. It is possible to have 4 menus. 
+		"Text":[														//text of your site in different languages according to your declaration
+			"<h2>Rules</h2><br/> 1) Admin is always right.<br/> 2) No admin refund.<br/> 3) Building in military, lumber mills and high spawn building is not allowed.<br/><br/>Server restarts are in 12:00 and 00:00.<br/><br/>If you have some troubles with our server you can contact us on discord (click on button below).<br/><br/>Admins are: AlPepino, Saphire",
+			"<h2>Pravidla</h2><br/> 1) Admin má vždycky pravdu.<br/> 2) Admin neposkytuje žádnou herní kompenzaci.<br/> 3) Je zakázané stavět základny ve vojenských prostorech, pilách a objektech s cenným lootem.<br/><br/>Restarty serveru jsou v poledne a o půlnoci.<br/><br/>V případě problémů nás můžete kontaktovat na discordu (odkaz na discord je dole).<br/><br/>Admini jsou: AlPepino, Saphire"
+			]
+		},
+		{
+		"Menu":["Installed mods","Instalované mody"],
+		"Text":[
+			"<h2>Next Days</h2><br/>* Added new dynamic mission system.<br/>* Added own server notification and server info page.<br/>* Tweaked destruction of your buildings, now is almost impossible that someone destroy your walls. Added building everywhere.<br/>* Added NBC Camo Suit (can be reapaired).<br/>* Added own trader with real ecnomy. It's still in progress so be patient:)<br/>",
+			"<h2>Next Days</h2><br/>* Přidán dynamický spawn misí.<br/>* Přidána servrová notifikace a informační stránky.<br/>* Upravená destrukce staveb, nyní je téměř nemožné znižit stavbu. Dále je možné stavět bez omezení kolizního modelu.<br/>* Přidán protiradiační oblek Camo verze (je opravitelný páskou).<br/>* Přidán vlastní obchodník. Stále je ve fázi vývoje, tak buďte shovívaví.<br/>"
+			]
+		},
+		{
+		"Menu":["How to survive","Jak přežít"],
+		"Text":[
+			"<h2>How to cure radiation disease?</h2><br/> 1) You have to get rid of radiation dose from your body first. Use the radiation block tablets to accelerate this process. And you have to use codeine pills to get rid of the side effect (headache).<br/> 2) Use the tetracycline tablets or blood transfusion (it is required when the icon of radiation disease is red).<br/>",
+			"<h2>Jak vyléčit nemoc z ozáření?</h2><br/> 1) Musíš snížit úroveň ozáření svého těla na minimum. Použij protiradiační pilulky k urychlení procesu. Vem si prášky proti bolesti na zbavení se bolesti hlavy.<br/> 2) Vem si antibiotika nebo si aplikuj krevní transfůzi (ta je vyžadována pokud je ikona radiační nemoci již červená).<br/>"
+			]
+		},
+		{
+		"Menu":["Missions","Mise"],
+		"Text":[
+			"<h2>Missions on Server</h2><br/> 1) Traders - they are spawned random at 2 places. Every village has chance for own trader:)<br/><br/> 2) Nidek radiation zone - there is a big area which is contamined with lower radiation dose, but within this range are dynamicly spawned others radiation barrels with higher radiation level and with extra loot<br/><br/> 3) Derailed army train - try to rescue cargo from this accident, but bewaro of little suprise at the end of mission:)<br/><br/> 4) Nadbor radiation zone - there is hell hole full of radiation and interesting loot. This is a hard mission with big suprise at the end of mission:)<br/><br/><br/><i>* Use chernarus map for finding exact location of that missions.</i>",
+			"<h2>Mise na serveru</h2><br/> 1) Obchodníci - spawnují se vždy dva na mapu. Každá vesnice s obchůdkem má šanci na svého obchodníka:)<br/><br/> 2) Radiační zóna Nidek - je zde vélká oblast, která je kontaminována s nižší radiční dávkou, ale uvnitř této oblasti se dynamicky spawnují další radiační barely s vyšší úrovní radiace a lepším lootem. Pro lokaci ti může pomoct Geigerův přístroj<br/><br/> 3) Vykolejený armádní vlak - zkus získat zásoby z této nehody, ale pozor na malé překvapení na konci mise:)<br/><br/> 4) Radiační zóna Nadbor - pozor na díru do pekla, která je zamořená radiací a cenným lootem zároveň. Jedná se o těžší statickou misi. A pozor na větší překvapení na konci mise:)<br/><br/><br/><i>* V herní mapě najdeš přesné pozice misí.</i>"
+			]
+		}			
+	]
+}

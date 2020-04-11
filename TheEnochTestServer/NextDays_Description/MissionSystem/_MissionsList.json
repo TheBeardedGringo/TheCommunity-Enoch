@@ -1,0 +1,36 @@
+{
+	"MissionList":[							//this is a array of declared missions
+		{
+			"type": "radiation",			
+			"name": "rNWAstatic"
+		},
+		{
+			"type": "radiation",
+			"name": "rNWAdynamic"
+		},	
+		{
+			"type": "radiation",
+			"name": "rTISSYstatic"
+		},
+		{
+			"type": "radiation",
+			"name": "rTISSYdynamic"
+		},	
+		{
+			"type": "radiation",
+			"name": "rOrlovecFactoryS"
+		},	
+		{
+			"type": "radiation",
+			"name": "rOrlovecFactoryD"
+		},			
+		{
+			"type": "radiation",
+			"name": "rTrain"
+		},		
+		{
+			"type": "radiation",		//type of mission radiation/noradiation
+			"name": "NewMission"		//name of mission
+		}			
+	]
+}

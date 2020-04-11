@@ -1,0 +1,52 @@
+[										//array of AI objects
+	{
+	"className":"alp_ZedArmy_M1",		//className of AI
+	"type":"static",					//type of AI static/dynamic
+	"nominal":[4,8],					//min/max AI spawn count
+	"restock":0,						//0-means infinity AI restock. With two conditions. 1: all static AI must be dead, 2: event can be executed after every "timeRespawn" (declared in mission template)
+	"position":[1,0,1],					//offset of the mission position for spawning
+	"radius":10,						//spawn radius
+	"cargo":							//loot in AI cargo
+	[
+		{
+		"title":"ArmyBags_1",
+		"chance":1.0
+		},	
+		{
+		"title":"Pistols_1",
+		"chance":0.2
+		}
+	]
+	},
+	{
+	"className":"alp_ZedArmy_M2",
+	"type":"dynamic",					//dynamic AI
+	"nominal":[10,15],
+	"restock":0,
+	"spawnRadius":100,					//extra parameter for dynamic AI. If you set 0 then AI will be spawned instantly when some player reach "safeRadius" (declared in mission template). Otherwise AI will be spawned only when some player reach to this distance ("spawnRadius":100) from the mission center.
+	"position":[1,0,1],	
+	"radius":20,
+	"cargo":
+	[
+		{
+		"title":"ArmyBags_1",
+		"chance":1.0
+		},	
+		{
+		"title":"Pistols_1",
+		"chance":0.2
+		}
+	]
+	},	
+	{
+	"className":"Animal_CanisLupus_Grey",
+	"type":"dynamic",
+	"nominal":[6,8],
+	"restock":0,
+	"spawnRadius":5,					//AI will be spawned only then when some player is max 5m from the mission center.
+	"position":[-80,0,10],
+	"radius":10,
+	"cargo":
+	[]
+	}	
+]

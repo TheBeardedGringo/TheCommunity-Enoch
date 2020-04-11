@@ -1,0 +1,38 @@
+{
+	"TraderRestockTime":7200,
+	"DamageCar":1,
+	"MissionList":[			
+		{
+			"type": "trader",
+			"name": "trader1"
+		},			
+		{
+			"type": "radiation",
+			"name": "rALLMAP"
+		},	
+		{
+			"type": "radiation",
+			"name": "rNWMAP"
+		},	
+		{
+			"type": "radiation",
+			"name": "rNWAstatic"
+		},
+		{
+			"type": "radiation",
+			"name": "rTISSYstatic"
+		},
+		{
+			"type": "carAccident",
+			"name": "caVehicles"
+		},
+		{
+			"type": "radiationMission",
+			"name": "rTrain"
+		},
+		{
+			"type": "radiationMission",
+			"name": "rHeliCrash"
+		}		
+	]
+}
