@@ -1,142 +1,22 @@
 [
 	{
 	"Type":0,
-	"Message":"Weclome to our server: Next Days - WinterChernarus. If you want to survive press key 'I' for further info. By pressing key 'P' you can check your stats.",
+	"Message":"Weclome to Vagrants Paradise. If you want to survive press key 'I' for further info. By pressing key 'P' you can check your stats.",
 	"Time":[-1,0,0],
 	"Loop":0,
 	"LoopTime":10
-	},
+	},			
 	{
 	"Type":0,
-	"Message":"Vítej na našem serveru: Next Days - WinterChernarus. Pokud chceš přežít stiskni klávesu 'I' pro další informace. Klávesou 'P' zobrazíš své staty.",
-	"Time":[-1,0,0],
-	"Loop":0,
-	"LoopTime":11
-	},	
-	{
-	"Type":0,
-	"Message":"Next Days mod was updated. Added was Hall of fame, reworked trader economy, improved leveling system etc.",
-	"Time":[-1,0,0],
-	"Loop":0,
-	"LoopTime":20
-	},
-	{
-	"Type":0,
-	"Message":"Next Days mod byl aktualizován. Přidána byla síň slávy, přepracována byla ekonomika, vylepšen byl levelovací systém atd.",
-	"Time":[-1,0,0],
-	"Loop":0,
-	"LoopTime":21
-	},		
-	{
-	"Type":0,
-	"Message":"You are playing on Next Days - WinterChernarus server. Press key 'I' for further info. By pressing key 'P' you can check your stats.",
+	"Message":"You are playing on Vagrants Paradise. Press key 'I' for further info. By pressing key 'P' you can check your stats.",
 	"Time":[-1,0,0],
 	"Loop":-1,
 	"LoopTime":2700
-	},	
+	},		
 	{
 	"Type":0,
-	"Message":"Hraješ na serveru Next Days - WinterChernarus. Stiskni klávesu 'I' pro další informace. Klávesou 'P' zobrazíš své staty.",
-	"Time":[-1,0,0],
-	"Loop":-1,
-	"LoopTime":2701
-	},	
-	{
-	"Type":0,
-	"Message":"Are you still alive? Keep alive our server too. Support our server through donate if you like:)",
+	"Message":"Are you still alive? Keep alive our server too. Support our server through donations if you like:)",
 	"Time":[-1,0,0],
 	"Loop":-1,
 	"LoopTime":3600
 	},
-	{
-	"Type":0,
-	"Message":"Stále ještě žiješ? Pomož přežít i našemu serveru :)",
-	"Time":[-1,0,0],
-	"Loop":-1,
-	"LoopTime":3601
-	},		
-	{
-	"Type":0,
-	"Message":"Too hard? Try our second server Next Days - Livonia.",
-	"Time":[-1,0,0],
-	"Loop":-1,
-	"LoopTime":3610
-	},
-	{
-	"Type":0,
-	"Message":"Moc těžké? Zkus náš druhý server Next Days - Livonia.",
-	"Time":[-1,0,0],
-	"Loop":-1,
-	"LoopTime":3611
-	},		
-	{
-	"Type":1,
-	"Message":"Server restart at 12:00, 1 hours left till the restart",
-	"Time":[11,0,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 12:00, 30 minutes left till the restart",
-	"Time":[11,30,0],
-	"Loop":0,
-	"LoopTime":0
-	},	
-	{
-	"Type":1,
-	"Message":"Server restart at 12:00, 10 minutes left till the restart",
-	"Time":[11,50,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 12:00, 5 minutes left till the restart",
-	"Time":[11,55,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 12:00, 3 minutes left till the restart",
-	"Time":[11,57,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 00:00, 1 hours left till the restart",
-	"Time":[23,0,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 00:00, 30 minutes left till the restart",
-	"Time":[23,30,0],
-	"Loop":0,
-	"LoopTime":0
-	},	
-	{
-	"Type":1,
-	"Message":"Server restart at 00:00, 10 minutes left till the restart",
-	"Time":[23,50,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 00:00, 5 minutes left till the restart",
-	"Time":[23,55,0],
-	"Loop":0,
-	"LoopTime":0
-	},
-	{
-	"Type":1,
-	"Message":"Server restart at 00:00, 3 minutes left till the restart",
-	"Time":[23,57,0],
-	"Loop":0,
-	"LoopTime":0
-	}
-]
