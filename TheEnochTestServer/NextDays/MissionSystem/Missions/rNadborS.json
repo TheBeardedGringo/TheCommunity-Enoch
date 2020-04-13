@@ -14,7 +14,7 @@
 	"sendInfo":0,
 	"missionDescription":"Beware of radiation disaster near #pos",
 	"textInfo":"Beware of radiation disaster near #pos",	
-	"showInMap":0,
+	"showInMap":1,
 	"mapTitle":"Radiation zone",	
 	"position": [
 		[7348.899902,0,2647.629883,0]
