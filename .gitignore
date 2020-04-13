@@ -47,4 +47,6 @@ TheTestServer
 TheServer
 ServerLogs*
 tmp_RegisteredObjects.json
+TraderStock.json
+
 
