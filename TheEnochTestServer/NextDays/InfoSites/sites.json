@@ -1,31 +1,50 @@
 {
-	"Language":["English","Česky"],
-	"Discord":"https://discord.gg/6dMThNM",
-	"Donate":"https://paypal.me/AlPepino?locale.x=cs_CZ",
-	"Items":[
-		{
-		"Menu":["How to survive"],
-		"Text":[
-			"<br/><b>Attention: Radiation is spread all over the map. The Southeast of Livonia is hit with smaller doses of radiation than the Northwest. You can hide against smaller doses of radiation in buildings.</b><br/> <h2>Tips</h2><br/> 1) Avoid long stays outdoors without NBC suit. Otherwise you can get radiation disease.<br/><br/> 2) Keep your body warm.<br/><br/> 3) Get some food. Try to  hunt some animal. Food and ammo are very rare in this world.<br/><br/> 4) When you are ready you can try to get better stuff from missions like Crashed Helicopters etc.<br/><br/> 5) You can even buy some basic stuff at traders. To unlocking better trader categories you have to get better world reputation first.<br/><br/> 6) Best tradable stuff are food, ammo, magazines, weapons and vehicles.<br/><br/>",           
-			]
-		},
-		{
-		"Menu":["Missions","Mise"],
-		"Text":[
-			"<h2>Missions on Server</h2><br/> 1) Traders - they are spawned random at 2 places<br/><br/> 2) Crashed Helicopters - there are random spawned HeliCrash with rare loot. You can get echo about that event if you have working walkie-talkie<br/><br/> 3) Derailed army train - try to rescue cargo from this accident<br/><br/> 4) Car accident - try to get your own new car from this mission:)<br/><br/> <br/><i>* Use Chernarus map + walkie-talkie for finding exact location of that missions (except of Crashed Helicopters)</i>",
-			]
-		},		
-		{
-		"Menu":["How to cure RD","Jak vyléčit RD"],
-		"Text":[
-			"<h2>How do you cure radiation poisioning?</h2><br/> 1) You have to get rid of radiation dose from your body first. Use the radiation block tablets to accelerate this process.<br/> 2) Use the tetracycline tablets or blood transfusion (it is required when the icon of radiation disease is red).<br/>",
-			]
-		},	
-		{
-		"Menu":["Vagrants Paradise","Server Rules"],
-		"Text":[
-			"<h2>Rules</h2><br/> 1) The Admin is always right.<br/> 2) No Admin Compensation<br/> 3) Don't be a Dick, Don't camp the General trader, No Glitching or Hacking.<br/><br/>Server restarts are every 4 hours.<br/><br/>If you have some troubles with our server you can contact us on discord (click on button below).<br/><br/>Admins: AssMaster                                                                                                                                ",
-			]
-		}		
-	]
+  "Language": [
+    "English",
+    "Česky"
+  ],
+  "Discord": "https://discord.gg/C5RGnaj",
+  "Donate": "https://discord.gg/C5RGnaj",
+  "Items": [
+    {
+      "Menu": [
+        "How to survive",
+        "Server Rules"
+      ],
+      "Text": [
+        "<br/><b>Attention: Radiation zones are spread all over the map. The general traders move around upon server restarts, they aren't static and you need a radio to find them.</b><br/> <h2>Tips</h2><br/> 1) Avoid staying in these radiation zones without an NBC suit, Otherwise you can get radiation poisoning.<br/><br/> 2) Keep your body warm.<br/><br/> 3) Get some food. Try to  hunt some animals. Military Zones are stacked we encourage you to defend yourself but beware of the negative hit to your reputation skinning players.<br/><br/> 4) When you are ready you can try to get better stuff from missions like Crashed Helicopters, crashed trains, radiation zones, and car accidents, use a radio to find these.<br/><br/> 5) You can buy some basic stuff at traders but the Advanced weaponry will be found at the Black Market. To unlock better trader categories you have to get better world reputation first.<br/><br/> 6)The Best tradable stuff is food, ammo, magazines, weapons and vehicles.<br/><br/>",
+        "Rules Pending, for now please stick to not being a complete asshole, and refrain from glitching, hacking or being a dumbshit. This server is hard, the stamina is restricted and radiation is all over the place, be careful, use a gieger counter and anti-radiation pills."
+      ]
+    },
+    {
+      "Menu": [
+        "Missions",
+        ""
+      ],
+      "Text": [
+        "<h2>Missions on Server</h2><br/> 1) Traders - they are spawned random at 2 places<br/><br/> 2) Crashed Helicopters - there are random spawned HeliCrash with rare loot. You can get info about that event if you have working handheld radio.<br/><br/> 3) Derailed army train - try to rescue cargo from this accident<br/><br/> 4) Car accident - try to get your own new car from this mission:)<br/><br/> <br/><i>* The Vanilla Plus Plus Map (The M-Key) + the walkie-talkie for finding exact location of that missions.</i>",
+        ""
+      ]
+    },
+    {
+      "Menu": [
+        "How to cure RD",
+        "Jak vyléčit RD"
+      ],
+      "Text": [
+        "<h2>How to cure radiation disease?</h2><br/> 1) You have to get rid of radiation dose from your body first. Use the radiation block tablets to accelerate this process.<br/> 2) Use the tetracycline tablets or blood transfusion (it is required when the icon of radiation disease is red).<br/>",
+        "<h2>Jak vyléčit nemoc z ozáření?</h2><br/> 1) Musíš snížit úroveň ozáření svého těla na minimum. Použij protiradiační pilulky k urychlení procesu.<br/> 2) Vem si antibiotika nebo si aplikuj krevní transfůzi (ta je vyžadována pokud je ikona radiační nemoci již červená).<br/>                                   "
+      ]
+    },
+    {
+      "Menu": [
+        "Vagrants Paradise",
+        ""
+      ],
+      "Text": [
+        "<h2>Rules</h2><br/> 1) Admin is always right.<br/> 2) No Compensation for lost goods.<br/> 3) Building in military and high spawn building is not allowed.<br/><br/>Server restarts are every 4 Hours.<br/><br/>If you have some trouble with our server you can contact us on discord (click on button below).<br/><br/>Admins: AssMaster                                                                                                                                 ",
+        ""
+      ]
+    }
+  ]
 }
