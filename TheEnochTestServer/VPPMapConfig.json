@@ -1,39 +1,88 @@
 {
-    "M_STATIC_MARKER_ARRAY": [
-        {
-            "M_MARKER_NAME": "Bohemia Interactive",
-            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
-            "M_COLOR": [
-                255,
-                255,
-                255
-            ],
-            "M_POSITION": [
-                7500,
-                0,
-                7500
-            ],
-            "M_ISACTIVE": 1,
-            "M_IS_3D_ACTIVE": 1
-        },
-        {
-            "M_MARKER_NAME": "Loot Stash",
-            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
-            "M_COLOR": [
-                255,
-                255,
-                255
-            ],
-            "M_POSITION": [
-                7400,
-                0,
-                7200
-            ],
-            "M_ISACTIVE": 1,
-            "M_IS_3D_ACTIVE": 1
-        }
-    ],
-    "m_CanUse3DMarkers": 1,
-    "m_OwnPositionMarkerDisabled": 0,
-    "m_ForceMapItemOnly": 0
+  "M_STATIC_MARKER_ARRAY": [
+    {
+      "M_MARKER_NAME": "Black Market",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        255,
+        255
+      ],
+      "M_POSITION": [
+        11134,
+        0,
+        2470
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Vehicle Trader",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        255,
+        255
+      ],
+      "M_POSITION": [
+        10222,
+        0,
+        2182
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Black Market",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        255,
+        255
+      ],
+      "M_POSITION": [
+        10222,
+        0,
+        2182
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Black Market",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        255,
+        255
+      ],
+      "M_POSITION": [
+        5106,
+        0,
+        5213
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    },
+    {
+      "M_MARKER_NAME": "Pot Farm - Drug Dealer",
+      "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+      "M_COLOR": [
+        255,
+        255,
+        255
+      ],
+      "M_POSITION": [
+        5649,
+        0,
+        494
+      ],
+      "M_ISACTIVE": 1,
+      "M_IS_3D_ACTIVE": 1
+    }
+  ],
+  "m_CanUse3DMarkers": 1,
+  "m_OwnPositionMarkerDisabled": 0,
+  "m_ForceMapItemOnly": 0
+}
 }
