@@ -26,6 +26,14 @@
             "KilledAnimals": 1
         },
         {
+            "Name": "DirtySanchez",
+            "Reputation": 12500,
+            "KilledPlayers": 0,
+            "SkinnedPlayers": 0,
+            "KilledZombies": 25,
+            "KilledAnimals": 0
+        },
+        {
             "Name": "Survivor",
             "Reputation": 0,
             "KilledPlayers": 0,
