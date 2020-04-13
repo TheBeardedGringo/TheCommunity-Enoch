@@ -1,14 +1,14 @@
 [
 	{
 	"Type":0,
-	"Message":"Weclome to Vagrants Paradise. If you want to survive press key 'I' for further info. By pressing key 'P' you can check your stats.",
+	"Message":"Weclome to Vagrants Paradise. Hop into discord and say Hi https://discord.gg/C5RGnaj.",
 	"Time":[-1,0,0],
 	"Loop":0,
 	"LoopTime":10
 	},			
 	{
 	"Type":0,
-	"Message":"You are playing on Vagrants Paradise. Press key 'I' for further info. By pressing key 'P' you can check your stats.",
+	"Message":"You are playing on Vagrants Paradise. Don't be a dick, don't glitch or hack.",
 	"Time":[-1,0,0],
 	"Loop":-1,
 	"LoopTime":2700
