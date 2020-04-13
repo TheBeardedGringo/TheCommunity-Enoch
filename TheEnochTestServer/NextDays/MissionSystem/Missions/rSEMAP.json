@@ -10,18 +10,18 @@
 	"missionSafeSpawnRadius":0,
 	"safeRadius":0,
 	"distanceRadius":0,
-	"cleanRadius":11000,
+	"cleanRadius":7200,
 	"alertMessage":0,
 	"sendInfo":0,	
 	"missionDescription":"",
-	"textInfo":"NWMap",	
+	"textInfo":"SEMap",	
 	"showInMap":0,
-	"mapTitle":"NWMMap",	
+	"mapTitle":"SEMap",	
 	"position": [
-		[0,0,15350,0]
+		[6500,0,0,0]
 		],
 	"positionOffset":0,		
-	"radiusOfRadiation":[11000,11000],
+	"radiusOfRadiation":[7000,7000],
 	"strengthOfRadiation":[4,4],
 	"enableSineFunction":1,
 	"strengthOfRadiationOffset":2,

@@ -8,9 +8,9 @@
 	"missionRespawn":0,
 	"timeRespawn":3600,
 	"missionSafeSpawnRadius":200,
-	"safeRadius":50,
+	"safeRadius":200,
 	"distanceRadius":0,
-	"cleanRadius":200,		
+	"cleanRadius":600,		
 	"sendInfo":0,
 	"missionDescription":"Beware of radiation disaster near #pos",
 	"textInfo":"Beware of radiation disaster near #pos",	
@@ -21,7 +21,7 @@
 		],
 	"positionOffset":0,		
 	"radiusOfRadiation":[13,13],
-	"strengthOfRadiation":[200,250],
+	"strengthOfRadiation":[150,250],
 	"enableDeactivation":0,
 	"visualEffect":5,
 	"loot":[	
@@ -34,108 +34,64 @@
 			"roll":0,	
 			"cargo":[
 				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Food_1",
-				"chance":0.5
-				},	
-				{
 				"title":"RadSuit_2",
-				"chance":0.5
+				"chance":0.7
 				},	
 				{
-				"title":"RadSuit_2",
+				"title":"Medic_1",
+				"chance":1.0
+				},			
+				{
+				"title":"Ammo_4",
+				"chance":1.0
+				},	
+				{
+				"title":"Ammo_4",
 				"chance":0.2
 				},
 				{
-				"title":"Automat_1",
-				"chance":0.5
-				},				
-				{
-				"title":"Pistols_1",
-				"chance":0.5
+				"title":"Ammo_3",
+				"chance":0.2
 				},
 				{
+				"title":"Ammo_2",
+				"chance":0.2
+				},	
+				{
+				"title":"Ammo_1",
+				"chance":0.1
+				},		
+				{
 				"title":"Mag_1",
-				"chance":0.5
+				"chance":0.2
 				},	
 				{
 				"title":"Mag_2",
-				"chance":0.5
-				},					
+				"chance":0.2
+				},	
 				{
-				"title":"Ammo_1",
+				"title":"Mag_3",
+				"chance":0.2
+				},	
+				{
+				"title":"Mag_4",
+				"chance":0.2
+				},
+				{
+				"title":"Optics_1",
 				"chance":0.5
 				},				
 				{
-				"title":"Rare_1",
-				"chance":0.4
-				},	
-				{
 				"title":"Rifle_3",
-				"chance":0.4
-				},	
+				"chance":0.6
+				},				
 				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Ammo_2",
-				"chance":0.5
+				"title":"Rifle_4",
+				"chance":0.1
 				},		
 				{
-				"title":"Ammo_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},			
-				{
-				"title":"Ammo_3",
-				"chance":0.2
-				},	
-				{
-				"title":"Rifle_1",
-				"chance":0.4
-				},	
-				{
-				"title":"Rifle_2",
-				"chance":0.4
-				},			
-				{
-				"title":"Rifle_3",
-				"chance":0.2
-				},				
-				{
-				"title":"Optics_1",
-				"chance":0.4
-				},
-				{
-				"title":"Optics_1",
-				"chance":0.2
+				"title":"Rare_1",
+				"chance":0.1
 				}					
 			]
 		},
@@ -148,109 +104,65 @@
 			"roll":0,	
 			"cargo":[
 				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Food_1",
-				"chance":0.5
-				},	
-				{
 				"title":"RadSuit_2",
-				"chance":0.5
+				"chance":0.7
 				},	
 				{
-				"title":"RadSuit_2",
+				"title":"Medic_1",
+				"chance":1.0
+				},			
+				{
+				"title":"Ammo_4",
+				"chance":1.0
+				},	
+				{
+				"title":"Ammo_4",
 				"chance":0.2
 				},
 				{
-				"title":"Automat_1",
-				"chance":0.5
-				},				
-				{
-				"title":"Pistols_1",
-				"chance":0.5
+				"title":"Ammo_3",
+				"chance":0.2
 				},
 				{
+				"title":"Ammo_2",
+				"chance":0.2
+				},	
+				{
+				"title":"Ammo_1",
+				"chance":0.1
+				},		
+				{
 				"title":"Mag_1",
-				"chance":0.5
+				"chance":0.2
 				},	
 				{
 				"title":"Mag_2",
-				"chance":0.5
-				},					
+				"chance":0.2
+				},	
 				{
-				"title":"Ammo_1",
+				"title":"Mag_3",
+				"chance":0.2
+				},	
+				{
+				"title":"Mag_4",
+				"chance":0.2
+				},
+				{
+				"title":"Optics_1",
 				"chance":0.5
 				},				
 				{
-				"title":"Rare_1",
-				"chance":0.4
-				},	
-				{
 				"title":"Rifle_3",
-				"chance":0.4
-				},	
+				"chance":0.6
+				},				
 				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Ammo_2",
-				"chance":0.5
+				"title":"Rifle_4",
+				"chance":0.1
 				},		
 				{
-				"title":"Ammo_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},			
-				{
-				"title":"Ammo_3",
-				"chance":0.2
-				},	
-				{
-				"title":"Rifle_1",
-				"chance":0.4
-				},	
-				{
-				"title":"Rifle_2",
-				"chance":0.4
-				},			
-				{
-				"title":"Rifle_3",
-				"chance":0.2
-				},				
-				{
-				"title":"Optics_1",
-				"chance":0.4
-				},
-				{
-				"title":"Optics_1",
-				"chance":0.2
-				}					
+				"title":"Rare_1",
+				"chance":0.1
+				}			
 			]
 		},
 		{
@@ -262,109 +174,65 @@
 			"roll":0,	
 			"cargo":[
 				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Food_1",
-				"chance":0.5
-				},	
-				{
 				"title":"RadSuit_2",
 				"chance":0.5
 				},	
 				{
-				"title":"RadSuit_2",
+				"title":"Medic_1",
+				"chance":1.0
+				},			
+				{
+				"title":"Ammo_4",
+				"chance":1.0
+				},	
+				{
+				"title":"Ammo_4",
 				"chance":0.2
 				},
 				{
-				"title":"Automat_1",
-				"chance":0.5
-				},				
-				{
-				"title":"Pistols_1",
-				"chance":0.5
+				"title":"Ammo_3",
+				"chance":0.2
 				},
 				{
+				"title":"Ammo_2",
+				"chance":0.2
+				},	
+				{
+				"title":"Ammo_1",
+				"chance":0.1
+				},		
+				{
 				"title":"Mag_1",
-				"chance":0.5
+				"chance":0.2
 				},	
 				{
 				"title":"Mag_2",
-				"chance":0.5
-				},					
+				"chance":0.2
+				},	
 				{
-				"title":"Ammo_1",
+				"title":"Mag_3",
+				"chance":0.2
+				},	
+				{
+				"title":"Mag_4",
+				"chance":0.2
+				},
+				{
+				"title":"Optics_1",
 				"chance":0.5
 				},				
 				{
-				"title":"Rare_1",
-				"chance":0.4
-				},	
-				{
 				"title":"Rifle_3",
-				"chance":0.4
-				},	
+				"chance":0.6
+				},				
 				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Ammo_2",
-				"chance":0.5
+				"title":"Rifle_4",
+				"chance":0.1
 				},		
 				{
-				"title":"Ammo_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},			
-				{
-				"title":"Ammo_3",
-				"chance":0.2
-				},	
-				{
-				"title":"Rifle_1",
-				"chance":0.4
-				},	
-				{
-				"title":"Rifle_2",
-				"chance":0.4
-				},			
-				{
-				"title":"Rifle_3",
-				"chance":0.2
-				},				
-				{
-				"title":"Optics_1",
-				"chance":0.4
-				},
-				{
-				"title":"Optics_1",
-				"chance":0.2
-				}					
+				"title":"Rare_1",
+				"chance":0.1
+				}				
 			]
 		},
 		{
@@ -376,109 +244,65 @@
 			"roll":0,	
 			"cargo":[
 				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Medic_1",
-				"chance":0.5
-				},	
-				{
-				"title":"Food_1",
-				"chance":0.5
-				},	
-				{
 				"title":"RadSuit_2",
-				"chance":0.5
+				"chance":0.4
 				},	
 				{
-				"title":"RadSuit_2",
+				"title":"Medic_1",
+				"chance":1.0
+				},			
+				{
+				"title":"Ammo_4",
+				"chance":1.0
+				},	
+				{
+				"title":"Ammo_4",
 				"chance":0.2
 				},
 				{
-				"title":"Automat_1",
-				"chance":0.5
-				},				
-				{
-				"title":"Pistols_1",
-				"chance":0.5
+				"title":"Ammo_3",
+				"chance":0.2
 				},
 				{
+				"title":"Ammo_2",
+				"chance":0.2
+				},	
+				{
+				"title":"Ammo_1",
+				"chance":0.1
+				},		
+				{
 				"title":"Mag_1",
-				"chance":0.5
+				"chance":0.2
 				},	
 				{
 				"title":"Mag_2",
-				"chance":0.5
-				},					
+				"chance":0.2
+				},	
 				{
-				"title":"Ammo_1",
+				"title":"Mag_3",
+				"chance":0.2
+				},	
+				{
+				"title":"Mag_4",
+				"chance":0.2
+				},
+				{
+				"title":"Optics_1",
 				"chance":0.5
 				},				
 				{
-				"title":"Rare_1",
-				"chance":0.4
-				},	
-				{
 				"title":"Rifle_3",
-				"chance":0.4
-				},	
+				"chance":0.6
+				},				
 				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Ammo_2",
-				"chance":0.5
+				"title":"Rifle_4",
+				"chance":0.1
 				},		
 				{
-				"title":"Ammo_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},	
-				{
-				"title":"Ammo_2",
-				"chance":0.5
-				},
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},	
-				{
-				"title":"Mag_3",
-				"chance":0.5
-				},			
-				{
-				"title":"Ammo_3",
-				"chance":0.2
-				},	
-				{
-				"title":"Rifle_1",
-				"chance":0.4
-				},	
-				{
-				"title":"Rifle_2",
-				"chance":0.4
-				},			
-				{
-				"title":"Rifle_3",
-				"chance":0.2
-				},				
-				{
-				"title":"Optics_1",
-				"chance":0.4
-				},
-				{
-				"title":"Optics_1",
-				"chance":0.2
-				}					
+				"title":"Rare_1",
+				"chance":0.1
+				}				
 			]
 		}		
 	],

@@ -18,10 +18,10 @@
 	"showInMap":0,
 	"mapTitle":"AllMap",	
 	"position": [
-		[7750,0,7750,0]
+		[6500,0,6500,0]
 		],
 	"positionOffset":0,		
-	"radiusOfRadiation":[9500,9500],
+	"radiusOfRadiation":[9000,9000],
 	"strengthOfRadiation":[1.2,1.2],
 	"enableSineFunction":1,
 	"strengthOfRadiationOffset":0.8,
