@@ -51,13 +51,13 @@
             6400,
             6600
         ],
-        "AnabolicMdf": 4,
-        "MoveRun": 1,
-        "MoveSprint": 1.5,
-        "ClimbFast": 1.7,
-        "ClimbSlow": 1.2,
-        "SwimFast": 2,
-        "SwimSlow": 1.5
+        "AnabolicMdf": 1,
+        "MoveRun": 0.5,
+        "MoveSprint": 1,
+        "ClimbFast": 1,
+        "ClimbSlow": 0.5,
+        "SwimFast": 1,
+        "SwimSlow": 0.5
     },
     "Resistance": {
         "LevelCup": 22,
