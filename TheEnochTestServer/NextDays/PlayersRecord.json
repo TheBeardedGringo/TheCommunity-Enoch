@@ -1,4 +1,37 @@
 {
     "Count": 29,
-    "Records": []
+    "Records": [
+        {
+            "Name": "Survivor",
+            "Reputation": 25000,
+            "KilledPlayers": 1,
+            "SkinnedPlayers": 1,
+            "KilledZombies": 3,
+            "KilledAnimals": 1
+        },
+        {
+            "Name": "AssMaster",
+            "Reputation": -22000,
+            "KilledPlayers": 1,
+            "SkinnedPlayers": 0,
+            "KilledZombies": 32,
+            "KilledAnimals": 0
+        },
+        {
+            "Name": "AssMaster",
+            "Reputation": -17500,
+            "KilledPlayers": 1,
+            "SkinnedPlayers": 0,
+            "KilledZombies": 20,
+            "KilledAnimals": 1
+        },
+        {
+            "Name": "Survivor",
+            "Reputation": 0,
+            "KilledPlayers": 0,
+            "SkinnedPlayers": 0,
+            "KilledZombies": 0,
+            "KilledAnimals": 0
+        }
+    ]
 }
