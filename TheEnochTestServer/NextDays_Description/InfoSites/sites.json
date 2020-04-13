@@ -1,7 +1,7 @@
 {
 	"Language":["English","Česky"],										//count of language version. You can of course add others 
-	"Discord":"https://discord.gg/6dMThNM",								//url of your discord
-	"Donate":"https://paypal.me/AlPepino?locale.x=cs_CZ",				//donate url
+	"Discord":"https://discord.gg/2W6YhGt",								//url of your discord
+	"Donate":"https://discord.gg/2W6YhGt",				//donate url
 	"Items":[
 		{
 		"Menu":["NextDays server","NextDays server"],					//name of your first menu. It is possible to have 4 menus. 
