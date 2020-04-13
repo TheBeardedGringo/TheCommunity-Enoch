@@ -55,9 +55,9 @@ SET TESTLOGSFOLDER=LoggingTest
 :: ****************************** MODS ******************************
 :: DO NOT USE SPACES IN ANY OF THE MOD SETTINGS
 :: MODID look in meta.cpp. Use comma to add but no comma at the end
-SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790,1934466732,1836257061,1560819773,1565871491,1677796889,1932611410,1813296260,1646187754,1791033033,1605653648,1832448183,1648967877,1912237302,1567872567,1735947752,1582671564,1962144102,1991570984,1945945241,1827241477,1920610398,1734713776,1957554662,1897838396,1999076953,1862257480,1583941197,1850623448,1617874376,1870357551
+SET MODIDS=1559212036,1564026768,1574054508,1576057168,1590841260,1710977250,1724005476,1623711988,1819514788,1928939749,1585487785,1927567004,1782854982,1870524790,1934466732,1836257061,1565871491,1677796889,1932611410,1813296260,1646187754,1791033033,1605653648,1832448183,1648967877,1912237302,1567872567,1735947752,1582671564,1962144102,1991570984,1945945241,1827241477,1920610398,1734713776,1957554662,1897838396,1999076953,1862257480,1583941197,1850623448,1617874376,1870357551
 :: Add the Mod Name WITH the @ symbol close it with the ; as usual
-SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@Unlimited_Stamina;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;
+SET MODNAMES=@CF;@Community-Online-Tools;@BuildAnywhere;@BaseBuildingLogs;@Trader;@BaseBuildingPlus;@Durable_Suppressors;@VPPMap;@Ear-Plugs;@Catch_Rain;@DayZ-Expansion-Notifications;@DayZ-Expansion-Chat;@No_Shoe_Damage;@Airdrop-Upgraded;@Ammo_Making;@Banking;@BuilderItems;@Camosplus;@CannabisPlus;@CheckIdentity;@Code_Lock;@Dayz_Navigation;@FIDOv4;@FlipTransport;@GoreZ;@IRP;@KillFeed;@NoVehicleDamage;@PartyMe;@Modular_Vest_System;@MuchStuffPack;@SWP;@BreachingCharge;@BBPBreachCharge;@MunghardsItempack;@NDVPPM;@Next_Days;@Notes;@Repair_My_Car;@SQUAD_MSF-C;@Zeroy-FishingZ;@OP_BaseItems;@Base_Storage;
 :: Add the ModID in the [] and Mod Name WITHOUT the @ symbol
 SET MOD[1559212036]=CF
 SET MOD[1564026768]=Community-Online-Tools
@@ -75,7 +75,6 @@ SET MOD[1782854982]=No_Shoe_Damage
 SET MOD[1870524790]=Airdrop-Upgraded
 SET MOD[1934466732]=Ammo_Making
 SET MOD[1836257061]=Banking
-SET MOD[1560819773]=Unlimited_Stamina
 SET MOD[1565871491]=BuilderItems
 SET MOD[1677796889]=Camosplus
 SET MOD[1932611410]=CannabisPlus

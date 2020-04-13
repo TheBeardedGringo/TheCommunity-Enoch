@@ -337,7 +337,7 @@
             "Location": "Country",
             "DropType": "RANDOM",
             "X": 3359,
-            "Z": 2052,
+            "Z": 2054,
             "Zombies": 5,
             "Radius": 50,
             "DropAccuracy": 100

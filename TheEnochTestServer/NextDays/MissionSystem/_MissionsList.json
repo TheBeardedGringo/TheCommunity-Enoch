@@ -12,15 +12,11 @@
 		},	
 		{
 			"type": "radiation",
-			"name": "rNWMAP"
+			"name": "rSEMAP"
 		},	
 		{
 			"type": "radiation",
-			"name": "rNWAstatic"
-		},
-		{
-			"type": "radiation",
-			"name": "rTISSYstatic"
+			"name": "rNadborS"
 		},
 		{
 			"type": "carAccident",
@@ -33,6 +29,6 @@
 		{
 			"type": "radiationMission",
 			"name": "rHeliCrash"
-		}		
+		}	
 	]
 }
