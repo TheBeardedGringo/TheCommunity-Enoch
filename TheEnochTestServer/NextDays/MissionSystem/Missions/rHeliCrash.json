@@ -14,7 +14,7 @@
 	"sendInfo":1,	
 	"missionDescription":"Some mission description",
 	"textInfo":"Helicopters crashed near #pos",	
-	"showInMap":0,
+	"showInMap":1,
 	"mapTitle":"HeliCrash",	
 	"position": [
 		[11844.371094,0,6020.828613,357.697601],
