@@ -40,6 +40,14 @@
             "SkinnedPlayers": 0,
             "KilledZombies": 0,
             "KilledAnimals": 0
+        },
+        {
+            "Name": "DirtySanchez",
+            "Reputation": 0,
+            "KilledPlayers": 0,
+            "SkinnedPlayers": 0,
+            "KilledZombies": 0,
+            "KilledAnimals": 0
         }
     ]
 }

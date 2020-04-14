@@ -1,427 +1,427 @@
 {
-  "Locations": [
-    {
-      "Name": "Adamow",
-      "Position": [
-        3086.5,
-        0,
-        6810.62
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Bagno",
-      "Position": [
-        11827.17,
-        0,
-        11123.91
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Bielawa",
-      "Position": [
-        1476.83,
-        0,
-        9645.52
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Branzow Castle",
-      "Position": [
-        1017.37,
-        0,
-        11439.59
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Brena",
-      "Position": [
-        6615.27,
-        0,
-        11208.3
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Borek",
-      "Position": [
-        9812.73,
-        0,
-        8467.18
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Dambog",
-      "Position": [
-        644.65,
-        0,
-        1107.23
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Dolnik",
-      "Position": [
-        11358.33,
-        0,
-        623.55
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Drewniki",
-      "Position": [
-        5830.76,
-        0,
-        5047.8
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Gieraltow",
-      "Position": [
-        11250.5,
-        0,
-        4347.67
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Gliniska",
-      "Position": [
-        15152.52,
-        0,
-        13815.69
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Gliniska Airfield",
-      "Position": [
-        3949.16,
-        0,
-        10298.76
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Grabin",
-      "Position": [
-        10673.83,
-        0,
-        11047.34
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Hedrykow",
-      "Position": [
-        4052.3,
-        0,
-        6598.08
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Hrud",
-      "Position": [
-        6474.62,
-        0,
-        9351.71
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Huta",
-      "Position": [
-        5215.02,
-        0,
-        5572.9
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Jantar",
-      "Position": [
-        3634.26,
-        0,
-        8886
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Jezurow",
-      "Position": [
-        2026.93,
-        0,
-        2347.3
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Karlin",
-      "Position": [
-        10069.03,
-        0,
-        6960.65
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Kolembrody",
-      "Position": [
-        8470.3,
-        0,
-        12006.89
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Kopa",
-      "Position": [
-        5555.7,
-        0,
-        8758.64
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Krsnik",
-      "Position": [
-        7848.31,
-        0,
-        9945.57
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Kulno",
-      "Position": [
-        11103.6,
-        0,
-        2394.19
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Lembork",
-      "Position": [
-        8796.92,
-        0,
-        6635.59
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Lipina",
-      "Position": [
-        5930.77,
-        0,
-        6779.37
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Lukow",
-      "Position": [
-        3529.55,
-        0,
-        11961.57
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Muratyn",
-      "Position": [
-        4593.03,
-        0,
-        6376.17
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Nadbor",
-      "Position": [
-        6093.3,
-        0,
-        4072.62
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Nidek",
-      "Position": [
-        6093.3,
-        0,
-        8035.85
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Olszanka",
-      "Position": [
-        4808.69,
-        0,
-        7657.65
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Piorun",
-      "Position": [
-        532.91,
-        0,
-        12067.83
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Polana",
-      "Position": [
-        3314.67,
-        0,
-        2047.25
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Radacz",
-      "Position": [
-        4049.18,
-        0,
-        7935.83
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Radunin",
-      "Position": [
-        7318.53,
-        0,
-        6479.31
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Rodzanica",
-      "Position": [
-        8922.73,
-        0,
-        2058.97
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Roztoka",
-      "Position": [
-        7731.1,
-        0,
-        5297.85
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Sitnik",
-      "Position": [
-        11484.92,
-        0,
-        9561.13
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Sobotka",
-      "Position": [
-        6299.59,
-        0,
-        10248.75
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Sowa",
-      "Position": [
-        11644.32,
-        0,
-        12061.58
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Swarog",
-      "Position": [
-        4980.6,
-        0,
-        2115.23
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Tarnow",
-      "Position": [
-        9043.84,
-        0,
-        11555.24
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Topolin",
-      "Position": [
-        1783.14,
-        0,
-        7379.48
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Tymbark",
-      "Position": [
-        2858.34,
-        0,
-        1222.1
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Widok",
-      "Position": [
-        10256.57,
-        0,
-        2172.27
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Wrzeszcz",
-      "Position": [
-        9006.34,
-        0,
-        4419.56
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Zalesie",
-      "Position": [
-        882.97,
-        0,
-        5547.89
-      ],
-      "Radius": 4
-    },
-    {
-      "Name": "Zapadlisko",
-      "Position": [
-        8049.91,
-        0,
-        8710.97
-      ],
-      "Radius": 4
-    }
-  ]
+    "Locations": [
+        {
+            "Name": "Adamow",
+            "Position": [
+                3086.5,
+                0,
+                6810.62
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Bagno",
+            "Position": [
+                11827.2,
+                0,
+                11123.9
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Bielawa",
+            "Position": [
+                1476.83,
+                0,
+                9645.52
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Branzow Castle",
+            "Position": [
+                1017.37,
+                0,
+                11439.6
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Brena",
+            "Position": [
+                6615.27,
+                0,
+                11208.3
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Borek",
+            "Position": [
+                9812.73,
+                0,
+                8467.18
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Dambog",
+            "Position": [
+                644.65,
+                0,
+                1107.23
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Dolnik",
+            "Position": [
+                11358.3,
+                0,
+                623.55
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Drewniki",
+            "Position": [
+                5830.76,
+                0,
+                5047.8
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Gieraltow",
+            "Position": [
+                11250.5,
+                0,
+                4347.67
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Gliniska",
+            "Position": [
+                15152.5,
+                0,
+                13815.7
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Gliniska Airfield",
+            "Position": [
+                3949.16,
+                0,
+                10298.8
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Grabin",
+            "Position": [
+                10673.8,
+                0,
+                11047.3
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Hedrykow",
+            "Position": [
+                4052.3,
+                0,
+                6598.08
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Hrud",
+            "Position": [
+                6474.62,
+                0,
+                9351.71
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Huta",
+            "Position": [
+                5215.02,
+                0,
+                5572.9
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Jantar",
+            "Position": [
+                3634.26,
+                0,
+                8886
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Jezurow",
+            "Position": [
+                2026.93,
+                0,
+                2347.3
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Karlin",
+            "Position": [
+                10069,
+                0,
+                6960.65
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Kolembrody",
+            "Position": [
+                8470.3,
+                0,
+                12006.9
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Kopa",
+            "Position": [
+                5555.7,
+                0,
+                8758.64
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Krsnik",
+            "Position": [
+                7848.31,
+                0,
+                9945.57
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Kulno",
+            "Position": [
+                11103.6,
+                0,
+                2394.19
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Lembork",
+            "Position": [
+                8796.92,
+                0,
+                6635.59
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Lipina",
+            "Position": [
+                5930.77,
+                0,
+                6779.37
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Lukow",
+            "Position": [
+                3529.55,
+                0,
+                11961.6
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Muratyn",
+            "Position": [
+                4593.03,
+                0,
+                6376.17
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Nadbor",
+            "Position": [
+                6093.3,
+                0,
+                4072.62
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Nidek",
+            "Position": [
+                6093.3,
+                0,
+                8035.85
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Olszanka",
+            "Position": [
+                4808.69,
+                0,
+                7657.65
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Piorun",
+            "Position": [
+                532.91,
+                0,
+                12067.8
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Polana",
+            "Position": [
+                3314.67,
+                0,
+                2047.25
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Radacz",
+            "Position": [
+                4049.18,
+                0,
+                7935.83
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Radunin",
+            "Position": [
+                7318.53,
+                0,
+                6479.31
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Rodzanica",
+            "Position": [
+                8922.73,
+                0,
+                2058.97
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Roztoka",
+            "Position": [
+                7731.1,
+                0,
+                5297.85
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Sitnik",
+            "Position": [
+                11484.9,
+                0,
+                9561.13
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Sobotka",
+            "Position": [
+                6299.59,
+                0,
+                10248.8
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Sowa",
+            "Position": [
+                11644.3,
+                0,
+                12061.6
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Swarog",
+            "Position": [
+                4980.6,
+                0,
+                2115.23
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Tarnow",
+            "Position": [
+                9043.84,
+                0,
+                11555.2
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Topolin",
+            "Position": [
+                1783.14,
+                0,
+                7379.48
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Tymbark",
+            "Position": [
+                2858.34,
+                0,
+                1222.1
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Widok",
+            "Position": [
+                10256.6,
+                0,
+                2172.27
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Wrzeszcz",
+            "Position": [
+                9006.34,
+                0,
+                4419.56
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Zalesie",
+            "Position": [
+                882.97,
+                0,
+                5547.89
+            ],
+            "Radius": 4
+        },
+        {
+            "Name": "Zapadlisko",
+            "Position": [
+                8049.91,
+                0,
+                8710.97
+            ],
+            "Radius": 4
+        }
+    ]
 }
