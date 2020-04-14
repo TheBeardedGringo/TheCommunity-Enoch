@@ -3,6 +3,8 @@ static void BuildMyMapAdditions()
 {
 	Object obj;
 	//NEW MAP ADDITIONS BELOW
+	
+	// START Huta Black Market
 SpawnObject( "Land_Mil_Tent_Big4", "5104.049805 348.200012 5208.910156", "-40.000000 -1.500000 2.000000" );
 SpawnObject( "bldr_roadblock_bags_curve", "5097.319824 347.764008 5215.229980", "43.000000 0.000000 0.000000" );
 SpawnObject( "bldr_roadblock_bags_curve", "5119.290039 348.294617 5217.600586", "59.000000 0.000000 0.000000" );
@@ -113,6 +115,8 @@ SpawnObject( "bldr_plnt_t_PiceaAbies_1sb", "5157.415527 347.222046 5267.639160",
 SpawnObject( "bldr_plnt_t_PiceaAbies_2s", "5162.196777 354.490906 5263.808594", "0.000000 0.000000 0.000000" );
 SpawnObject( "bldr_plnt_t_PinusSylvestris_1f", "5172.453613 349.909790 5268.995117", "0.000000 0.000000 0.000000" );
 SpawnObject( "bldr_plnt_t_salixAlba_2sb", "5122.166992 345.706421 5267.260742", "0.000000 0.000000 0.000000" );	
+	// END Huta Black Market
+	
 	// START Admin Base
 	SpawnObject( "bldr_Wall_Fen5_10", "171.448914 256.447876 4990.895508", "159.999985 0.000000 0.000000" );
 	SpawnObject( "bldr_Wall_IndCnc4_8", "71.842697 251.559998 4974.500000", "70.000000 0.000000 0.000000" );
