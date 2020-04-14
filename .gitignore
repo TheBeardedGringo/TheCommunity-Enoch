@@ -11,6 +11,7 @@
 *.log
 *.ADM
 *.rpt
+*.mdmp
 @*/
 storage_*
 addons
