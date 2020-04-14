@@ -5,7 +5,7 @@
       "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
       "M_COLOR": [
         255,
-        255,
+        0,
         255
       ],
       "M_POSITION": [
@@ -20,7 +20,7 @@
       "M_MARKER_NAME": "Vehicle Trader",
       "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
       "M_COLOR": [
-        255,
+        0,
         255,
         255
       ],
@@ -37,13 +37,13 @@
       "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
       "M_COLOR": [
         255,
-        255,
-        255
+        0,
+        0
       ],
       "M_POSITION": [
-        10222,
+        575,
         0,
-        2182
+        1124
       ],
       "M_ISACTIVE": 1,
       "M_IS_3D_ACTIVE": 1
@@ -52,8 +52,8 @@
       "M_MARKER_NAME": "Black Market",
       "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
       "M_COLOR": [
-        255,
-        255,
+        0,
+        0,
         255
       ],
       "M_POSITION": [
@@ -70,7 +70,7 @@
       "M_COLOR": [
         255,
         255,
-        255
+        0
       ],
       "M_POSITION": [
         5649,
@@ -84,5 +84,4 @@
   "m_CanUse3DMarkers": 1,
   "m_OwnPositionMarkerDisabled": 0,
   "m_ForceMapItemOnly": 0
-}
 }
