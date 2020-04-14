@@ -1,1280 +1,425 @@
 {
     "Locations": [
-        {
-            "Name": "Altar",
-            "Position": [
-                8090.49,
-                0,
-                9326.95
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Balota",
-            "Position": [
-                4393.72,
-                0,
-                2412.05
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Balota Airstrip",
-            "Position": [
-                5025.65,
-                0,
-                2363.44
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bashnya",
-            "Position": [
-                4156.51,
-                0,
-                11747.3
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bay Mutnaya",
-            "Position": [
-                5634.24,
-                0,
-                1947.33
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bay Tikhaya",
-            "Position": [
-                1190.83,
-                0,
-                2194.76
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bay Zelenaya",
-            "Position": [
-                11140.8,
-                0,
-                3090.17
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Belaya Polana",
-            "Position": [
-                14148.2,
-                0,
-                15004.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Berezhki",
-            "Position": [
-                15152.5,
-                0,
-                13815.7
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Berezino",
-            "Position": [
-                11856.3,
-                0,
-                8991.54
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Berezino Lumberyard",
-            "Position": [
-                12661.3,
-                0,
-                9590.91
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Berezino Shipyard",
-            "Position": [
-                13179,
-                0,
-                10213.6
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Black Forest",
-            "Position": [
-                9083.59,
-                0,
-                7555.09
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Black Lake",
-            "Position": [
-                13360.8,
-                0,
-                11902.4
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Black Mtn",
-            "Position": [
-                10246.3,
-                0,
-                11984
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bogatyrka",
-            "Position": [
-                1504.85,
-                0,
-                8940.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Bor",
-            "Position": [
-                3317.02,
-                0,
-                4014.26
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Cap Golova",
-            "Position": [
-                8350.07,
-                0,
-                2443.64
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Cernaya Polana",
-            "Position": [
-                12200,
-                0,
-                13666.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Chernogorsk",
-            "Position": [
-                6572.9,
-                0,
-                2447.53
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Chernogorsk Factory",
-            "Position": [
-                6406.17,
-                0,
-                2710.03
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Chyornaya Bay",
-            "Position": [
-                7706.96,
-                0,
-                3087.25
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Crown Castle",
-            "Position": [
-                1430,
-                0,
-                9218.07
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Deep Lake",
-            "Position": [
-                1853.38,
-                0,
-                14860.8
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Devil's Castle",
-            "Position": [
-                6909.76,
-                0,
-                11371.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dichina Military",
-            "Position": [
-                4622.19,
-                0,
-                8283.76
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dobroe",
-            "Position": [
-                13096.3,
-                0,
-                14953.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dolina",
-            "Position": [
-                11327.4,
-                0,
-                6645.57
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Drakon Island",
-            "Position": [
-                11186,
-                0,
-                2491.77
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Drozhino",
-            "Position": [
-                3446.32,
-                0,
-                4929.12
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dubky",
-            "Position": [
-                6653.59,
-                0,
-                3674.47
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dubrovka",
-            "Position": [
-                10397.6,
-                0,
-                9795.56
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Dubrovka Vyshnaya",
-            "Position": [
-                9952.95,
-                0,
-                10392.8
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Electrozavodsk",
-            "Position": [
-                10502.8,
-                0,
-                2336.88
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Electrozavodsk Power",
-            "Position": [
-                10358.1,
-                0,
-                2593.85
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Electrozavodsk Shipyard",
-            "Position": [
-                9961.48,
-                0,
-                1788.85
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Gnome Castle",
-            "Position": [
-                7410.93,
-                0,
-                9114.04
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Gorka",
-            "Position": [
-                9646.16,
-                0,
-                8810.25
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Green Mtn",
-            "Position": [
-                3744.3,
-                0,
-                6013.15
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Grishino",
-            "Position": [
-                6018.26,
-                0,
-                10256.4
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Grozovoy Pass",
-            "Position": [
-                3237.3,
-                0,
-                15293.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Guba",
-            "Position": [
-                14609.1,
-                0,
-                13283.4
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Guglovo",
-            "Position": [
-                8411.8,
-                0,
-                6687.87
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Gvozdno",
-            "Position": [
-                8706.38,
-                0,
-                11895.1
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kabanino",
-            "Position": [
-                5298.35,
-                0,
-                8563.76
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kamenka",
-            "Position": [
-                1892.27,
-                0,
-                2155.87
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kamensk",
-            "Position": [
-                6633.17,
-                0,
-                14466.6
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kamyshovo",
-            "Position": [
-                12170.8,
-                0,
-                3447.95
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Karmanovka",
+		{
+			"Name": "Adamow", 
+			"Position": [
+				3086.50,
+				0,
+				6810.62
+			],
+			"Radius": 4
+		},
+		{
+			"Name": "Bagno", 
             "Position": [
-                12519.8,
-                0,
-                14679.5
+				11827.17,
+				0,
+				11123.91
             ],
             "Radius": 4
         },
         {
-            "Name": "Khelm",
+			"Name": "Bielawa", 
             "Position": [
-                12286.8,
-                0,
-                10794.4
+				1476.83,
+				0,
+				9645.52
             ],
             "Radius": 4
         },
-        {
-            "Name": "Klen Mtn",
-            "Position": [
-                11491.7,
-                0,
-                11331.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Komarovo",
-            "Position": [
-                3619.86,
-                0,
-                2342.53
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kozlova Mtn",
-            "Position": [
-                8826.96,
-                0,
-                2858.41
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kozlovka",
-            "Position": [
-                4451.57,
-                0,
-                4577.18
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Krasnoe",
-            "Position": [
-                6486.37,
-                0,
-                14981.9
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Krasnostav",
-            "Position": [
-                11228.8,
-                0,
-                12223.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Krasnostav Airstrip",
-            "Position": [
-                12016.2,
-                0,
-                12490.1
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Krutoy Cap",
-            "Position": [
-                13624.7,
-                0,
-                3892.25
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Kumyrna",
-            "Position": [
-                8403.05,
-                0,
-                6030.65
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Lopatino",
-            "Position": [
-                2749.87,
-                0,
-                9991.8
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Mamino",
-            "Position": [
-                7981.69,
-                0,
-                13057.3
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Map Edge NE",
-            "Position": [
-                15321.2,
-                0,
-                15327.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Map Edge NW",
-            "Position": [
-                44.12,
-                0,
-                15330.9
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Map Edge SW",
-            "Position": [
-                19.82,
-                0,
-                1584.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Mogilevka",
-            "Position": [
-                7502.8,
-                0,
-                5237.32
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Msta",
-            "Position": [
-                11258.3,
-                0,
-                5511.28
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Myshkino",
-            "Position": [
-                2056.57,
-                0,
-                7425.29
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Myshkino Military",
-            "Position": [
-                1266.66,
-                0,
-                7225.99
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Myshkino Trainyard",
-            "Position": [
-                885.72,
-                0,
-                7696.21
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Nadezhdino",
-            "Position": [
-                5821.39,
-                0,
-                4764.33
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Nagornoe",
-            "Position": [
-                9333.93,
-                0,
-                14666.9
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Nizhnoye",
-            "Position": [
-                12895.4,
-                0,
-                8040.79
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Novaya Petrovka",
-            "Position": [
-                3471.91,
-                0,
-                12988.1
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Novaya Trainyard",
-            "Position": [
-                3526.6,
-                0,
-                12579.7
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Novodmitrovsk",
-            "Position": [
-                11595,
-                0,
-                14696.5
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Novoselky",
-            "Position": [
-                6052.29,
-                0,
-                3285.59
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Novy Sobor",
-            "Position": [
-                7159.26,
-                0,
-                7688.51
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "NW Airfield ATC",
-            "Position": [
-                4618.3,
-                0,
-                10439.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "NW Airfield Range",
-            "Position": [
-                5373.21,
-                0,
-                9979.8
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "NW Airfield South",
-            "Position": [
-                4520.11,
-                0,
-                9421.26
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "NW Airfield Tents",
-            "Position": [
-                4163.31,
-                0,
-                11014.2
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Olha",
-            "Position": [
-                13320.9,
-                0,
-                12893
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Oreshka Pass",
-            "Position": [
-                9877.39,
-                0,
-                6009.26
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Orlovets",
-            "Position": [
-                12136.3,
-                0,
-                7281.89
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Orlovets Factory",
-            "Position": [
-                11489.7,
-                0,
-                7592.98
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Otmel Island",
-            "Position": [
-                11642.9,
-                0,
-                3095.52
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pavlovo",
-            "Position": [
-                1626.37,
-                0,
-                3846.56
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pavlovo Military",
-            "Position": [
-                2101.77,
-                0,
-                3290.93
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pogorevka",
-            "Position": [
-                4376.71,
-                0,
-                6413.21
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Polana",
-            "Position": [
-                10678.7,
-                0,
-                8090.18
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Polesovo",
-            "Position": [
-                5817,
-                0,
-                13490
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Prigorodki",
-            "Position": [
-                7984.89,
-                0,
-                3302.17
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Prud Lake",
-            "Position": [
-                6627.34,
-                0,
-                9288.07
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pulkovo",
-            "Position": [
-                4902.36,
-                0,
-                5650.65
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pusta",
-            "Position": [
-                9176.44,
-                0,
-                3858.71
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Pustoshka",
-            "Position": [
-                2992.21,
-                0,
-                7805.54
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Ratnoe",
-            "Position": [
-                6305.55,
-                0,
-                12708.4
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Rify",
-            "Position": [
-                13783.2,
-                0,
-                11233
-            ],
-            "Radius": 4
-        },
-        {
-            "Name": "Rog Castle",
+        { 
+			"Name": "Branzow Castle", 
             "Position": [
-                11255,
-                0,
-                4293.29
+				1017.37,
+				0,
+				11439.59
             ],
             "Radius": 4
         },
         {
-            "Name": "Rogovo",
+			"Name": "Brena", 
             "Position": [
-                4731,
-                0,
-                6775.61
+				6615.27,
+				0,
+				11208.30
             ],
             "Radius": 4
         },
         {
-            "Name": "Romashka",
+			"Name": "Borek", 
             "Position": [
-                8148.5,
-                0,
-                11015.2
+				9812.73,
+				0,
+				8467.18
             ],
             "Radius": 4
         },
         {
-            "Name": "Schadenfreude Island",
+			"Name": "Dambog", 
             "Position": [
-                24000,
-                0,
-                0
+				644.65,
+				0,
+				1107.23
             ],
             "Radius": 4
         },
         {
-            "Name": "Severograd",
+			"Name": "Dolnik", 
             "Position": [
-                7893.4,
-                0,
-                12576.3
+				11358.33,
+				0,
+				623.55
             ],
             "Radius": 4
         },
         {
-            "Name": "Shakhovka",
+			"Name": "Drewniki", 
             "Position": [
-                9670.8,
-                0,
-                6495.85
+				5830.76,
+				0,
+				5047.80
             ],
             "Radius": 4
         },
         {
-            "Name": "Silence Lake",
+			"Name": "Gieraltow", 
             "Position": [
-                1203.95,
-                0,
-                6507.42
+				11250.50,
+				0,
+				4347.67
             ],
             "Radius": 4
         },
         {
-            "Name": "Sinystok",
+			"Name": "Gliniska", 
             "Position": [
-                1447.49,
-                0,
-                11924.2
+				15152.52,
+				0,
+				13815.69
             ],
             "Radius": 4
         },
         {
-            "Name": "Skalisty Castle",
+			"Name": "Gliniska Airfield", 
             "Position": [
-                13494,
-                0,
-                3254.96
+			3949.16,
+			0,
+			10298.76
             ],
             "Radius": 4
         },
         {
-            "Name": "Skalisty Island",
+			"Name": "Grabin", 
             "Position": [
-                13661.2,
-                0,
-                2960.38
+				10673.83,
+				0,
+				11047.34
             ],
             "Radius": 4
         },
         {
-            "Name": "Skvsch Biathlon Arena",
+			"Name": "Hedrykow", 
             "Position": [
-                488.57,
-                0,
-                11118.7
+				4052.30,
+				0,
+				6598.08
             ],
             "Radius": 4
         },
         {
-            "Name": "Smirnovo",
+			"Name": "Hrud", 
             "Position": [
-                11629.3,
-                0,
-                15023.1
+				6474.62,
+				0,
+				9351.71
             ],
             "Radius": 4
         },
         {
-            "Name": "Solnichniy",
+			"Name": "Huta", 
             "Position": [
-                13469.1,
-                0,
-                6239
+				5215.02,
+				0,
+				5572.90
             ],
             "Radius": 4
         },
         {
-            "Name": "Solnichniy Factory",
+			"Name": "Jantar"
             "Position": [
-                13069.6,
-                0,
-                7161.34
+				3634.26,
+				0,
+				8886.00
             ],
             "Radius": 4
         },
         {
-            "Name": "Sosnovka",
+			"Name": "Jezurow", 
             "Position": [
-                2512.53,
-                0,
-                6371.41
+				2026.93,
+				0,
+				2347.30
             ],
             "Radius": 4
         },
         {
-            "Name": "Sosnovy Pass",
+			"Name": "Karlin", 
             "Position": [
-                2736.13,
-                0,
-                6757.38
+				10069.03,
+				0,
+				6960.65
             ],
             "Radius": 4
         },
         {
-            "Name": "Staroye",
+			"Name": "Kolembrody", 
             "Position": [
-                10164.2,
-                0,
-                5460.93
+				8470.30,
+				0,
+				12006.89
             ],
             "Radius": 4
         },
         {
-            "Name": "Stary Sobor",
+			"Name": "Kopa", 
             "Position": [
-                6072.64,
-                0,
-                7748.56
+				5555.70,
+				0,
+				8758.64
             ],
             "Radius": 4
         },
         {
-            "Name": "Stary Yar",
+			"Name": "Krsnik", 
             "Position": [
-                4935.61,
-                0,
-                15068
+				7848.31,
+				0,
+				9945.57
             ],
             "Radius": 4
         },
         {
-            "Name": "Storozh Island (Prison)",
+			"Name": "Kulno", 
             "Position": [
-                2611.2,
-                0,
-                1306.15
+				11103.60,
+				0,
+				2394.19
             ],
             "Radius": 4
         },
         {
-            "Name": "Svergino",
+			"Name": "Lembork", 
             "Position": [
-                9533.2,
-                0,
-                13728.4
+				8796.92,
+				0,
+				6635.59
             ],
             "Radius": 4
         },
         {
-            "Name": "Svetlojarsk",
+			"Name": "Lipina", 
             "Position": [
-                13931.9,
-                0,
-                13231.4
+				5930.77,
+				0,
+				6779.37
             ],
             "Radius": 4
         },
         {
-            "Name": "Three Crosses Gas",
+			"Name": "Lukow", 
             "Position": [
-                312.94,
-                0,
-                9362.44
+				3529.55,
+				0,
+				11961.57
             ],
             "Radius": 4
         },
         {
-            "Name": "Three Valleys",
+			"Name": "Muratyn", 
             "Position": [
-                12842.1,
-                0,
-                5500.33
+				4593.03,
+				0,
+				6376.17
             ],
             "Radius": 4
         },
         {
-            "Name": "Tisy",
+			"Name": "Nadbor", 
             "Position": [
-                3413.75,
-                0,
-                14810.3
+				6093.30,
+				0,
+				4072.62
             ],
             "Radius": 4
         },
         {
-            "Name": "Tisy Military",
+			"Name": "Nidek", 
             "Position": [
-                1681.3,
-                0,
-                14116.6
+				6093.30,
+				0,
+				8035.85
             ],
             "Radius": 4
         },
         {
-            "Name": "Topolka Dam",
+			"Name": "Olszanka", 
             "Position": [
-                10280.5,
-                0,
-                3507.5
+				4808.69,
+				0,
+				7657.65
             ],
             "Radius": 4
         },
         {
-            "Name": "Topolniki",
+			"Name": "Piorun", 
             "Position": [
-                2821.19,
-                0,
-                12366.5
+				532.91,
+				0,
+				12067.83
             ],
             "Radius": 4
         },
         {
-            "Name": "Troitskoe",
+			"Name": "Polana", 
             "Position": [
-                7559.44,
-                0,
-                13515.9
+				3314.67,
+				0,
+				2047.25
             ],
             "Radius": 4
         },
         {
-            "Name": "Troitskoe Military",
+			"Name": "Radacz", 
             "Position": [
-                7866.4,
-                0,
-                14676.1
+				4049.18,
+				0,
+				7935.83
             ],
             "Radius": 4
         },
         {
-            "Name": "Tulga",
+			"Name": "Radunin", 
             "Position": [
-                12808.7,
-                0,
-                4457.13
+				7318.53,
+				0,
+				6479.31
             ],
             "Radius": 4
         },
         {
-            "Name": "Turovo",
+			"Name": "Rodzanica", 
             "Position": [
-                13576.5,
-                0,
-                14128.6
+				8922.73,
+				0,
+				2058.97
             ],
             "Radius": 4
         },
         {
-            "Name": "Vavilovo",
+			"Name": "Roztoka", 
             "Position": [
-                2211.83,
-                0,
-                11016.4
+				7731.10,
+				0,
+				5297.85
             ],
             "Radius": 4
         },
         {
-            "Name": "Veresnik Mtn",
+			"Name": "Sitnik", 
             "Position": [
-                4439.42,
-                0,
-                8078.14
+				11484.92,
+				0,
+				9561.13
             ],
             "Radius": 4
         },
         {
-            "Name": "Vybor",
+			"Name": "Sobotka", 
             "Position": [
-                3800,
-                0,
-                8844.25
+				6299.59,
+				0,
+				10248.75
             ],
             "Radius": 4
         },
         {
-            "Name": "Vyshnoye",
+			"Name": "Sowa", 
             "Position": [
-                6532.61,
-                0,
-                6090.53
+				11644.32,
+				0,
+				12061.58
             ],
             "Radius": 4
         },
         {
-            "Name": "Vysotovo",
+			"Name": "Swarog", 
             "Position": [
-                5616.26,
-                0,
-                2561.77
+				4980.60,
+				0,
+				2115.23
             ],
             "Radius": 4
         },
         {
-            "Name": "Willow Lake",
+			"Name": "Tarnow", 
             "Position": [
-                13254.2,
-                0,
-                11607.8
+				9043.84,
+				0,
+				11555.24
             ],
             "Radius": 4
         },
         {
-            "Name": "Zabolotye",
+			"Name": "Topolin", 
             "Position": [
-                1156.26,
-                0,
-                10006.2
+				1783.14,
+				0,
+				7379.48
             ],
             "Radius": 4
         },
         {
-            "Name": "Zaprudnoe",
+			"Name": "Tymbark", 
             "Position": [
-                4927.47,
-                0,
-                13027.2
+				2858.34,
+				0,
+				1222.10
             ],
             "Radius": 4
         },
         {
-            "Name": "Zelenogorsk",
+			"Name": "Widok", 
             "Position": [
-                2713.4,
-                0,
-                5391.75
+				10256.57,
+				0,
+				2172.27
             ],
             "Radius": 4
         },
         {
-            "Name": "Zelenogorsk Trainyard",
+			"Name": "Wrzeszcz", 
             "Position": [
-                2490.65,
-                0,
-                5151.76
+				9006.34,
+				0,
+				4419.56
             ],
             "Radius": 4
         },
         {
-            "Name": "Zub Castle",
+			"Name": "Zalesie", 
             "Position": [
-                6541.79,
-                0,
-                5591.69
+				882.97,
+				0,
+				5547.89
             ],
             "Radius": 4
         },
         {
-            "Name": "Zvir",
+			"Name": "Zapadlisko", 
             "Position": [
-                477.35,
-                0,
-                5202.98
+				8049.91,
+				0,
+				8710.97
             ],
             "Radius": 4
         }
